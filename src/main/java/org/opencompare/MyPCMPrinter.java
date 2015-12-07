@@ -1,8 +1,25 @@
 package org.opencompare;
 
-import org.opencompare.api.java.*;
+import org.opencompare.api.java.Cell;
+import org.opencompare.api.java.Feature;
+import org.opencompare.api.java.FeatureGroup;
+import org.opencompare.api.java.PCM;
+import org.opencompare.api.java.Product;
+import org.opencompare.api.java.Value;
 import org.opencompare.api.java.util.PCMVisitor;
-import org.opencompare.api.java.value.*;
+import org.opencompare.api.java.value.BooleanValue;
+import org.opencompare.api.java.value.Conditional;
+import org.opencompare.api.java.value.DateValue;
+import org.opencompare.api.java.value.Dimension;
+import org.opencompare.api.java.value.IntegerValue;
+import org.opencompare.api.java.value.Multiple;
+import org.opencompare.api.java.value.NotApplicable;
+import org.opencompare.api.java.value.NotAvailable;
+import org.opencompare.api.java.value.Partial;
+import org.opencompare.api.java.value.RealValue;
+import org.opencompare.api.java.value.StringValue;
+import org.opencompare.api.java.value.Unit;
+import org.opencompare.api.java.value.Version;
 
 /**
  * Created by gbecan on 02/02/15.
