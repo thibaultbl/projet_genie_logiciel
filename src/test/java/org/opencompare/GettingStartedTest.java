@@ -21,7 +21,7 @@ public class GettingStartedTest {
     @Test
     public void testGettingStarted() throws IOException {
 
-        // Define a file representing a PCM to load
+        // Define a file representing a PCM to load //test
         File pcmFile = new File("pcms/example.pcm");
 
         // Create a loader that can handle the file format
