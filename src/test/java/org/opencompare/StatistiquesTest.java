@@ -17,15 +17,20 @@ import org.opencompare.api.java.Product;
 import org.opencompare.api.java.Value;
 import org.opencompare.api.java.impl.io.KMFJSONLoader;
 import org.opencompare.api.java.io.PCMLoader;
+import org.opencompare.api.java.value.BooleanValue;
+import org.opencompare.api.java.value.DateValue;
+import org.opencompare.api.java.value.IntegerValue;
+import org.opencompare.api.java.value.RealValue;
+import org.opencompare.api.java.value.StringValue;
 
 public class StatistiquesTest {
-	
+
 	@Test
 	public void testParcours() throws IOException {
 		File directory = new File("pcms");
 		File[] files = directory.listFiles();
 		int compteur=0;
-		
+
 		//parcours de l'ensemble des fichiers du répertoire
 		for(File file : files){
 			compteur++;
@@ -46,37 +51,37 @@ public class StatistiquesTest {
 		//parcours de l'ensemble des fichiers du répertoire
 		for(File file : files){
 			nbCells=0;
-			
+
 			// Define a file representing a PCM to load //test
-	        File pcmFile = file;
+			File pcmFile = file;
 
-	        // Create a loader that can handle the file format
-	        PCMLoader loader = new KMFJSONLoader();
+			// Create a loader that can handle the file format
+			PCMLoader loader = new KMFJSONLoader();
 
-	        // Load the file
-	        // A loader may return multiple PCM containers depending on the input format
-	        // A PCM container encapsulates a PCM and its associated metadata
-	        List<PCMContainer> pcmContainers = loader.load(pcmFile);
+			// Load the file
+			// A loader may return multiple PCM containers depending on the input format
+			// A PCM container encapsulates a PCM and its associated metadata
+			List<PCMContainer> pcmContainers = loader.load(pcmFile);
 
-	        for (PCMContainer pcmContainer : pcmContainers) {
+			for (PCMContainer pcmContainer : pcmContainers) {
 
-	            // Get the PCM
-	            PCM pcm = pcmContainer.getPcm();
+				// Get the PCM
+				PCM pcm = pcmContainer.getPcm();
 
-	            // Browse the cells of the PCM
-	            for (Product product : pcm.getProducts()) {
-	                for (Feature feature : pcm.getConcreteFeatures()) {
-	                	total++;
-	                	nbCells++;
-	                }
-	            }
-	        }
-	        if(nbCells<min){
-	        	min=nbCells;
-	        }
-	        if(nbCells>max){
-	        	max=nbCells;
-	        }
+				// Browse the cells of the PCM
+				for (Product product : pcm.getProducts()) {
+					for (Feature feature : pcm.getConcreteFeatures()) {
+						total++;
+						nbCells++;
+					}
+				}
+			}
+			if(nbCells<min){
+				min=nbCells;
+			}
+			if(nbCells>max){
+				max=nbCells;
+			}
 		}
 		System.out.println("Il y a au total "+total+" cellules dans le dataset.");
 		moy=total/files.length;
@@ -84,50 +89,116 @@ public class StatistiquesTest {
 		System.out.println("Il y a au minimum "+min+" cellules par matrice.");
 		System.out.println("Il y a au maximum "+max+" cellules par matrice.");
 	}
-	
+
 	@Test
 	public void testTypes() throws IOException {
 		File directory = new File("pcms");
 		File[] files = directory.listFiles();
 
+		int cptString=0;
+		int cptInteger=0;
+		int cptReal=0;
+		int cptBoolean=0;
+
+		int nbString;
+		int nbInteger;
+		int nbReal;
+		int nbBoolean;
+
+		int nbFile=0;
+
+		int minString=9999999;
+		int minInteger=9999999;
+		int minReal=9999999;
+		int minBoolean=9999999;
+
+		int maxString=0;
+		int maxInteger=0;
+		int maxReal=0;
+		int maxBoolean=0;
+
 		//parcours de l'ensemble des fichiers du répertoire
 		for(File file : files){
+			nbString=0;
+			nbInteger=0;
+			nbReal=0;
+			nbBoolean=0;
+
+			nbFile++;
+
 			// Define a file representing a PCM to load //test
-	        File pcmFile = new File("pcms/example.pcm");
+			File pcmFile = file;
 
-	        // Create a loader that can handle the file format
-	        PCMLoader loader = new KMFJSONLoader();
+			// Create a loader that can handle the file format
+			PCMLoader loader = new KMFJSONLoader();
 
-	        // Load the file
-	        // A loader may return multiple PCM containers depending on the input format
-	        // A PCM container encapsulates a PCM and its associated metadata
-	        List<PCMContainer> pcmContainers = loader.load(pcmFile);
+			// Load the file
+			// A loader may return multiple PCM containers depending on the input format
+			// A PCM container encapsulates a PCM and its associated metadata
+			List<PCMContainer> pcmContainers = loader.load(pcmFile);
 
-	        for (PCMContainer pcmContainer : pcmContainers) {
+			for (PCMContainer pcmContainer : pcmContainers) {
 
-	            // Get the PCM
-	            PCM pcm = pcmContainer.getPcm();
+				// Get the PCM
+				PCM pcm = pcmContainer.getPcm();
 
-	            // Browse the cells of the PCM
-	            for (Product product : pcm.getProducts()) {
-	                for (Feature feature : pcm.getConcreteFeatures()) {
+				// Browse the cells of the PCM
+				for (Product product : pcm.getProducts()) {
+					for (Feature feature : pcm.getConcreteFeatures()) {
 
-	                    // Find the cell corresponding to the current feature and product
-	                    Cell cell = product.findCell(feature);
+						// Find the cell corresponding to the current feature and product
+						Cell cell = product.findCell(feature);
 
-	                    // Get information contained in the cell
-	                    String content = cell.getContent();
-	                    String rawContent = cell.getRawContent();
-	                    Value interpretation = cell.getInterpretation();
-	                    System.out.println(interpretation.toString());
-	                }
-	            }
-	        }
+						// Get information contained in the cell
+						String content = cell.getContent();
+						String rawContent = cell.getRawContent();
+						Value interpretation = cell.getInterpretation();
+
+						if (interpretation instanceof StringValue) {
+							//StringValue v = (StringValue) interpretation;
+							cptString++;
+							nbString++;
+						}
+						else if(interpretation instanceof IntegerValue){
+							cptInteger++;
+							nbInteger++;
+						}
+						else if(interpretation instanceof RealValue){
+							cptReal++;
+							nbReal++;
+						}
+						else if(interpretation instanceof BooleanValue){
+							cptBoolean++;
+							nbBoolean++;
+						}
+						// Print the content of the cell
+						//System.out.println("(" + product.getName() + ", " + feature.getName() + ") = " + content);
+					}
+				}
+			}
+
+			if(nbString<minString){
+
+			}
+			if(nbString<minString){
+
+			}
+			if(nbString<minString){
+
+			}
+			if(nbString<minString){
+
+			}
 		}
-	}
-	
 
-@Test
+		System.out.println("Il y a au total "+cptString+" cellules de type String.");
+		System.out.println("Il y a au total "+cptInteger+" cellules de type Integer.");
+		System.out.println("Il y a au total "+cptReal+" cellules de type Real.");
+		System.out.println("Il y a au total "+cptBoolean+" cellules de type Boolean.");
+	}
+
+
+	@Test
 	public void nbProduitMatrice() throws IOException {
 		File directory = new File("pcms");
 		File[] files = directory.listFiles();
@@ -153,11 +224,11 @@ public class StatistiquesTest {
 				}
 
 			}
-			System.out.println(file.getName()+" : "+compteur);
+			//System.out.println(file.getName()+" : "+compteur);
 			liste.add(compteur);
 		}
-		int min = liste.indexOf(Collections.min(liste));
-		int max = liste.indexOf(Collections.max(liste));
+		int min = Collections.min(liste);
+		int max = Collections.max(liste);
 		int mean = (int)this.calculateAverage(liste);
 		int total = (int)this.sumListe(liste);
 		System.out.println("min : "+ min+" max : "+max+" mean : "+mean+" total : "+total);
@@ -182,5 +253,41 @@ public class StatistiquesTest {
 			}
 		}
 		return sum;
+	}
+
+	@Test
+	public void nbFeatureMatrice() throws IOException {
+		File directory = new File("pcms");
+		File[] files = directory.listFiles();
+		List<Integer> liste=new ArrayList<Integer>();
+		int compteur=0;
+
+		//parcours de l'ensemble des fichiers du répertoire
+		for(File file : files){
+			// Create a loader that can handle the file format
+			PCMLoader loader = new KMFJSONLoader();
+
+			// Load the file
+			// A loader may return multiple PCM containers depending on the input format
+			// A PCM container encapsulates a PCM and its associated metadata
+			List<PCMContainer> pcmContainers = loader.load(file);
+			compteur=0;
+			for (PCMContainer pcmContainer : pcmContainers) {
+				// Get the PCM
+				PCM pcm = pcmContainer.getPcm();
+				// Browse the cells of the PCM
+				for (Feature feature : pcm.getConcreteFeatures()) {
+					compteur++;
+				}
+
+			}
+			//System.out.println(file.getName()+" : "+compteur);
+			liste.add(compteur);
+		}
+		int min = Collections.min(liste);
+		int max = Collections.max(liste);
+		int mean = (int)this.calculateAverage(liste);
+		int total = (int)this.sumListe(liste);
+		System.out.println("min : "+ min+" max : "+max+" mean : "+mean+" total : "+total);
 	}
 }
