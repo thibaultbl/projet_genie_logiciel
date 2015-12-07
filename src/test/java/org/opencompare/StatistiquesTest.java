@@ -205,9 +205,9 @@ public class StatistiquesTest {
 		}
 		
 		float moyString=cptString/nbFile;
-		float moyInteger=cptString/nbFile;
-		float moyReal=cptString/nbFile;
-		float moyBoolean=cptString/nbFile;
+		float moyInteger=cptInteger/nbFile;
+		float moyReal=cptReal/nbFile;
+		float moyBoolean=cptBoolean/nbFile;
 
 		System.out.println("Il y a au total "+cptString+" cellules de type String.");
 		System.out.println("Il y a au total "+cptInteger+" cellules de type Integer.");
