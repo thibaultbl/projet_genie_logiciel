@@ -178,23 +178,56 @@ public class StatistiquesTest {
 			}
 
 			if(nbString<minString){
-
+				minString=nbString;
 			}
-			if(nbString<minString){
-
+			if(nbInteger<minInteger){
+				minInteger=nbInteger;
 			}
-			if(nbString<minString){
-
+			if(nbReal<minReal){
+				minReal=nbReal;
 			}
-			if(nbString<minString){
-
+			if(nbBoolean<minBoolean){
+				minBoolean=nbBoolean;
+			}
+			
+			if(nbString>maxString){
+				maxString=nbString;
+			}
+			if(nbInteger>maxInteger){
+				maxInteger=nbInteger;
+			}
+			if(nbReal>maxReal){
+				maxReal=nbReal;
+			}
+			if(nbBoolean>maxBoolean){
+				maxBoolean=nbBoolean;
 			}
 		}
+		
+		float moyString=cptString/nbFile;
+		float moyInteger=cptString/nbFile;
+		float moyReal=cptString/nbFile;
+		float moyBoolean=cptString/nbFile;
 
 		System.out.println("Il y a au total "+cptString+" cellules de type String.");
 		System.out.println("Il y a au total "+cptInteger+" cellules de type Integer.");
 		System.out.println("Il y a au total "+cptReal+" cellules de type Real.");
 		System.out.println("Il y a au total "+cptBoolean+" cellules de type Boolean.");
+		
+		System.out.println("Il y a en moyenne "+moyString+" cellules de type String.");
+		System.out.println("Il y a en moyenne "+moyInteger+" cellules de type Integer.");
+		System.out.println("Il y a en moyenne "+moyReal+" cellules de type Real.");
+		System.out.println("Il y a en moyenne "+moyBoolean+" cellules de type Boolean.");
+		
+		System.out.println("Il y a au minimum "+minString+" cellules de type String.");
+		System.out.println("Il y a au minimum "+minInteger+" cellules de type Integer.");
+		System.out.println("Il y a au minimum "+minReal+" cellules de type Real.");
+		System.out.println("Il y a au minimum "+minBoolean+" cellules de type Boolean.");
+		
+		System.out.println("Il y a au maximum "+maxString+" cellules de type String.");
+		System.out.println("Il y a au maximum "+maxInteger+" cellules de type Integer.");
+		System.out.println("Il y a au maximum "+maxReal+" cellules de type Real.");
+		System.out.println("Il y a au maximum "+maxBoolean+" cellules de type Boolean.");
 	}
 
 
