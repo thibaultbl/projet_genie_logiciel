@@ -1,0 +1,14 @@
+
+{"class":"pcm.PCM@11368984321449070305728","name":"Q29tcGFyaXNvbl9vZl9wcm9ncmFtbWluZ19sYW5ndWFnZXNfKHN0cmluZ19mdW5jdGlvbnMpIC0gRm9ybWF0","generated_KMF_ID":"11368984321449070305728","products":[
+{"class":"pcm.Product@18828460091449070305728","name":"RGVzY3JpcHRpb24=","generated_KMF_ID":"18828460091449070305728","cells":[
+{"class":"pcm.Cell@16548014301449070305728","content":"UmV0dXJucyB0aGUgZm9ybWF0dGVkIHN0cmluZyByZXByZXNlbnRhdGlvbiBvZiBvbmUgb3IgbW9yZSBpdGVtcy4=","rawContent":"UmV0dXJucyB0aGUgZm9ybWF0dGVkIHN0cmluZyByZXByZXNlbnRhdGlvbiBvZiBvbmUgb3IgbW9yZSBpdGVtcy4=","generated_KMF_ID":"16548014301449070305728","feature":["features[17310814651449070305728]"],"product":["products[18828460091449070305728]"],"interpretation":[
+{"class":"pcm.Multiple@10263564511449070373293","generated_KMF_ID":"10263564511449070373293","subvalues":[
+{"class":"pcm.StringValue@7203330581449070373293","value":"bW9yZSBpdGVtcy4=","generated_KMF_ID":"7203330581449070373293"}
+,
+{"class":"pcm.StringValue@11236728911449070373293","value":"UmV0dXJucyB0aGUgZm9ybWF0dGVkIHN0cmluZyByZXByZXNlbnRhdGlvbiBvZiBvbmU=","generated_KMF_ID":"11236728911449070373293"}
+]}
+]}
+]}
+],"features":[
+{"class":"pcm.Feature@17310814651449070305728","name":"Zm9ybWF0KGZvcm1hdHN0cmluZywgaXRlbXMpIHJldHVybnMgc3RyaW5n","generated_KMF_ID":"17310814651449070305728","parentGroup":[],"cells":["products[18828460091449070305728]/cells[16548014301449070305728]"]}
+]}

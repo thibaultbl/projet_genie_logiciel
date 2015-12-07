@@ -1,0 +1,10 @@
+
+{"class":"pcm.PCM@4918967561449070305731","name":"Q29tcGFyaXNvbl9vZl9wcm9ncmFtbWluZ19sYW5ndWFnZXNfKHN0cmluZ19mdW5jdGlvbnMpIC0gcmlnaHQ=","generated_KMF_ID":"4918967561449070305731","products":[
+{"class":"pcm.Product@12643083531449070305732","name":"RGVzY3JpcHRpb24=","generated_KMF_ID":"12643083531449070305732","cells":[
+{"class":"pcm.Cell@1310781161449070305732","content":"UmV0dXJucyB0aGUgcmlnaHQgbiBwYXJ0IG9mIGEgc3RyaW5nLiBJZiBuIGlzIGdyZWF0ZXIgdGhhbiB0aGUgbGVuZ3RoIG9mIHRoZSBzdHJpbmcgdGhlbiBtb3N0IGltcGxlbWVudGF0aW9ucyByZXR1cm4gdGhlIHdob2xlIHN0cmluZyAoZXhjZXB0aW9ucyBleGlzdCAtIHNlZSBjb2RlIGV4YW1wbGVzKS4=","rawContent":"UmV0dXJucyB0aGUgcmlnaHQgJyduJycgcGFydCBvZiBhIHN0cmluZy4gSWYgJyduJycgaXMgZ3JlYXRlciB0aGFuIHRoZSBsZW5ndGggb2YgdGhlIHN0cmluZyB0aGVuIG1vc3QgaW1wbGVtZW50YXRpb25zIHJldHVybiB0aGUgd2hvbGUgc3RyaW5nIChleGNlcHRpb25zIGV4aXN0IC0gc2VlIGNvZGUgZXhhbXBsZXMpLg==","generated_KMF_ID":"1310781161449070305732","feature":["features[21327816991449070305732]"],"product":["products[12643083531449070305732]"],"interpretation":[
+{"class":"pcm.StringValue@5386765151449070372083","value":"UmV0dXJucyB0aGUgcmlnaHQgbiBwYXJ0IG9mIGEgc3RyaW5nLiBJZiBuIGlzIGdyZWF0ZXIgdGhhbiB0aGUgbGVuZ3RoIG9mIHRoZSBzdHJpbmcgdGhlbiBtb3N0IGltcGxlbWVudGF0aW9ucyByZXR1cm4gdGhlIHdob2xlIHN0cmluZyAoZXhjZXB0aW9ucyBleGlzdCAtIHNlZSBjb2RlIGV4YW1wbGVzKS4=","generated_KMF_ID":"5386765151449070372083"}
+]}
+]}
+],"features":[
+{"class":"pcm.Feature@21327816991449070305732","name":"cmlnaHQoc3RyaW5nLG4pIHJldHVybnMgc3RyaW5n","generated_KMF_ID":"21327816991449070305732","parentGroup":[],"cells":["products[12643083531449070305732]/cells[1310781161449070305732]"]}
+]}
