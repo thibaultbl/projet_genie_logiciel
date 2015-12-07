@@ -323,6 +323,4 @@ public class StatistiquesTest {
 		int total = (int)this.sumListe(liste);
 		System.out.println("min : "+ min+" max : "+max+" mean : "+mean+" total : "+total);
 	}
-	
-	//test
 }
