@@ -29,26 +29,26 @@ public class Statistique4TestThibault {
 		//On crée une liste contenant l'ensemble des features
 		List<ArrayList<String>> liste=new ArrayList<ArrayList<String>>();
 		ArrayList<String> listeTemp=null;
-		
+
 
 		for(File file : files){
 			PCMLoader loader = new KMFJSONLoader();
 
 			List<PCMContainer> pcmContainers = loader.load(file);
-			
+
 			for (PCMContainer pcmContainer : pcmContainers) {
 				PCM pcm = pcmContainer.getPcm();
 				liste=new ArrayList<ArrayList<String>>();
 				for (Feature feature : pcm.getConcreteFeatures()) {
 					listeTemp=new ArrayList<String>();
 					for (Product product : pcm.getProducts()) {
-						
+
 
 						// Find the cell corresponding to the current feature and product
 						Cell cell = product.findCell(feature);
 						// Get information contained in the cell
 						String content = cell.getContent();
-						
+
 						listeTemp.add(content);
 
 
@@ -68,29 +68,32 @@ public class Statistique4TestThibault {
 				}
 			}
 		}
-		
+
 	}*/
-	
-	
-	
-	
+
+
+
+
 	@Test
 	public void faitsInteressantsWithTreatment() throws IOException {
-		File directory = new File("pcms2");
+		final double THRESHOLD = 0.02;
+		final int NB_FAITS_INTERESSANTS =5;
+		int compteur_nb_faits_interessants=0;
+		File directory = new File("pcms");
 		File[] files = directory.listFiles();
 		//On crée une liste contenant l'ensemble des features
 		List<ArrayList<String>> liste=new ArrayList<ArrayList<String>>();
 		ArrayList<String> listeTemp=null;
-		
+
 		List<Value> listeInterpretation=null;
-		
+
 
 		for(File file : files){
 			PCMLoader loader = new KMFJSONLoader();
 
 			List<PCMContainer> pcmContainers = loader.load(file);
-			
-			
+
+
 			for (PCMContainer pcmContainer : pcmContainers) {
 				PCM pcm = pcmContainer.getPcm();
 				liste=new ArrayList<ArrayList<String>>();
@@ -99,13 +102,13 @@ public class Statistique4TestThibault {
 				for (Feature feature : pcm.getConcreteFeatures()) {
 					listeTemp=new ArrayList<String>();
 					for (Product product : pcm.getProducts()) {
-						
+
 
 						// Find the cell corresponding to the current feature and product
 						cell = product.findCell(feature);
 						// Get information contained in the cell
 						String content = cell.getContent();
-						
+
 						listeTemp.add(content);
 
 
@@ -126,44 +129,54 @@ public class Statistique4TestThibault {
 				}
 			}
 			System.out.println(file.getName());
+			compteur_nb_faits_interessants=0;
 			//on extraie les faits intéréssants (quali et quanti) par colonnes
 			for(int i=0;i<liste.size();i++ ){
-				if(((listeInterpretation.get(i) instanceof RealValue) || (listeInterpretation.get(i) instanceof IntegerValue))&&(listeInterpretation.get(i) instanceof DateValue)){
-					this.faitsInteressantsQuanti(liste.get(i));
-					System.out.println(listeInterpretation.get(i));
-				}
-				if((listeInterpretation.get(i) instanceof StringValue)){
-					String faitInteressantQuali=this.faitsInteressantsQuali(liste.get(i), 0.02);
-					if(faitInteressantQuali != null) {
-						System.out.println(faitInteressantQuali);
+				if(compteur_nb_faits_interessants<NB_FAITS_INTERESSANTS){
+
+
+					if(((listeInterpretation.get(i) instanceof RealValue) || (listeInterpretation.get(i) instanceof IntegerValue) )&&(listeInterpretation.get(i) instanceof DateValue)){
+						double faitInteressantQuanti=this.faitsInteressantsQuanti(liste.get(i));
+						if(faitInteressantQuanti>0) {
+							System.out.println("faitInteressantQuanti"+faitInteressantQuanti);
+							compteur_nb_faits_interessants++;
+						}
+						System.out.println(listeInterpretation.get(i));
+					}
+					if((listeInterpretation.get(i) instanceof StringValue)){
+						String faitInteressantQuali=this.faitsInteressantsQuali(liste.get(i), THRESHOLD);
+						if((faitInteressantQuali != null)&&(faitInteressantQuali != "")) {
+							System.out.println("faitInteressantQuali : "+faitInteressantQuali);
+							compteur_nb_faits_interessants++;
+						}
 					}
 				}
 			}
-			
+
 		}
 	}
-	
+
 
 	public double faitsInteressantsQuanti(ArrayList<String> liste) throws IOException {
 		double[] tabQuanti = new double[liste.size()];
 		for(int i=0;i<liste.size();i++){
 			NumberFormat nf = NumberFormat.getInstance();
-//			double chiffre=0;
-//			try{
-//				chiffre = nf.parse(liste.get(i)).doubleValue();
-//			}
-//			catch(ParseException e){
-//				System.out.println(e.toString());
-//			}
+			//			double chiffre=0;
+			//			try{
+			//				chiffre = nf.parse(liste.get(i)).doubleValue();
+			//			}
+			//			catch(ParseException e){
+			//				System.out.println(e.toString());
+			//			}
 			double chiffre=Double.parseDouble(liste.get(i));
 			tabQuanti[i]=chiffre;
 		}
-		
+
 		Arrays.sort(tabQuanti);
-		
+
 		//index du thresold à 90%
 		int index=(int)Math.round((tabQuanti.length)*0.9);
-		
+
 		// on retourne le quantile à 90%
 		return tabQuanti[index];
 	}
@@ -171,7 +184,7 @@ public class Statistique4TestThibault {
 	public String faitsInteressantsQuali(ArrayList<String> liste, double threshold) throws IOException {
 		ArrayList<String> modalites = new ArrayList<String>();
 		ArrayList<Double> frequences = new ArrayList<Double>();
-		
+
 		// on remplit le tableau des modalités (modalités unique par colonnes)
 		for(int i=0;i<liste.size();i++){
 			boolean ajout=true;
@@ -185,7 +198,7 @@ public class Statistique4TestThibault {
 				frequences.add((double)0);
 			}
 		}
-		
+
 		// on compte le nombre d'occurence des modalités
 		for(int i=0;i<liste.size();i++){
 			for(int j=0;j<modalites.size();j++){
@@ -194,12 +207,12 @@ public class Statistique4TestThibault {
 				}
 			}
 		}
-		
+
 		// on passe les comptages en fréquences
 		for(int j=0;j<frequences.size();j++){
 			frequences.set(j, frequences.get(j)/liste.size());
 		}
-		
+
 		// on relève une éventuelle fréquence supérieure à 90%
 		int trouve=-1;
 		for(int j=0;j<frequences.size();j++){
@@ -213,13 +226,13 @@ public class Statistique4TestThibault {
 			}
 		}
 		if(trouve!=-1){
-			return modalites.get(trouve);
+			return "modalité : "+modalites.get(trouve)+" fréquence : "+frequences.get(trouve);
 		}
 		else{
 			return null;
 		}
 	}
-	
+
 	/**
 	 * TO DELETE
 	 */
@@ -229,8 +242,8 @@ public class Statistique4TestThibault {
 	/**
 	 * TO DELETE
 	 */
-	
-/*	@Test
+
+	/*	@Test
 	public void testQuali(){
 		ArrayList<String> liste=new ArrayList<String>();
 		liste.add("salut");
@@ -250,4 +263,8 @@ public class Statistique4TestThibault {
 		}		
 	}*/
 	
+	/**
+	 * Fonction pour envoyer une ArrayList<ArrayList<double>> dans d3js
+	 */
+
 }
