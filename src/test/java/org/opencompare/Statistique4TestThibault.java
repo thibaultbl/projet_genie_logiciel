@@ -2,7 +2,9 @@ package org.opencompare;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.NumberFormat;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
@@ -14,9 +16,13 @@ import org.opencompare.api.java.Product;
 import org.opencompare.api.java.Value;
 import org.opencompare.api.java.impl.io.KMFJSONLoader;
 import org.opencompare.api.java.io.PCMLoader;
+import org.opencompare.api.java.value.DateValue;
+import org.opencompare.api.java.value.IntegerValue;
+import org.opencompare.api.java.value.RealValue;
+import org.opencompare.api.java.value.StringValue;
 
 public class Statistique4TestThibault {
-	@Test
+	/*@Test
 	public void faitsInteressants() throws IOException {
 		File directory = new File("pcms2");
 		File[] files = directory.listFiles();
@@ -29,7 +35,6 @@ public class Statistique4TestThibault {
 			PCMLoader loader = new KMFJSONLoader();
 
 			List<PCMContainer> pcmContainers = loader.load(file);
-			
 			
 			for (PCMContainer pcmContainer : pcmContainers) {
 				PCM pcm = pcmContainer.getPcm();
@@ -64,7 +69,10 @@ public class Statistique4TestThibault {
 			}
 		}
 		
-	}
+	}*/
+	
+	
+	
 	
 	@Test
 	public void faitsInteressantsWithTreatment() throws IOException {
@@ -110,14 +118,136 @@ public class Statistique4TestThibault {
 					liste.add(listeTemp);
 				}
 			}
-			System.out.println("change product :"+file.getName());
+			//System.out.println("change product :"+file.getName());
 			for(int i=0;i<liste.size();i++ ){
-				System.out.println("change feature");
+				//System.out.println("change feature");
 				for(int j=0;j<liste.get(i).size();j++){
-					System.out.println(liste.get(i).get(j));
+					//System.out.println(liste.get(i).get(j));
+				}
+			}
+			System.out.println(file.getName());
+			//on extraie les faits intéréssants (quali et quanti) par colonnes
+			for(int i=0;i<liste.size();i++ ){
+				if(((listeInterpretation.get(i) instanceof RealValue) || (listeInterpretation.get(i) instanceof IntegerValue))&&(listeInterpretation.get(i) instanceof DateValue)){
+					this.faitsInteressantsQuanti(liste.get(i));
+					System.out.println(listeInterpretation.get(i));
+				}
+				if((listeInterpretation.get(i) instanceof StringValue)){
+					String faitInteressantQuali=this.faitsInteressantsQuali(liste.get(i), 0.02);
+					if(faitInteressantQuali != null) {
+						System.out.println(faitInteressantQuali);
+					}
+				}
+			}
+			
+		}
+	}
+	
+
+	public double faitsInteressantsQuanti(ArrayList<String> liste) throws IOException {
+		double[] tabQuanti = new double[liste.size()];
+		for(int i=0;i<liste.size();i++){
+			NumberFormat nf = NumberFormat.getInstance();
+//			double chiffre=0;
+//			try{
+//				chiffre = nf.parse(liste.get(i)).doubleValue();
+//			}
+//			catch(ParseException e){
+//				System.out.println(e.toString());
+//			}
+			double chiffre=Double.parseDouble(liste.get(i));
+			tabQuanti[i]=chiffre;
+		}
+		
+		Arrays.sort(tabQuanti);
+		
+		//index du thresold à 90%
+		int index=(int)Math.round((tabQuanti.length)*0.9);
+		
+		// on retourne le quantile à 90%
+		return tabQuanti[index];
+	}
+
+	public String faitsInteressantsQuali(ArrayList<String> liste, double threshold) throws IOException {
+		ArrayList<String> modalites = new ArrayList<String>();
+		ArrayList<Double> frequences = new ArrayList<Double>();
+		
+		// on remplit le tableau des modalités (modalités unique par colonnes)
+		for(int i=0;i<liste.size();i++){
+			boolean ajout=true;
+			for(int j=0;j<modalites.size();j++){
+				if(liste.get(i)==modalites.get(j)){
+					ajout=false;
+				}
+			}
+			if(ajout){
+				modalites.add(liste.get(i));
+				frequences.add((double)0);
+			}
+		}
+		
+		// on compte le nombre d'occurence des modalités
+		for(int i=0;i<liste.size();i++){
+			for(int j=0;j<modalites.size();j++){
+				if(liste.get(i)==modalites.get(j)){
+					frequences.set(j, (frequences.get(j))+1);
 				}
 			}
 		}
 		
+		// on passe les comptages en fréquences
+		for(int j=0;j<frequences.size();j++){
+			frequences.set(j, frequences.get(j)/liste.size());
+		}
+		
+		// on relève une éventuelle fréquence supérieure à 90%
+		int trouve=-1;
+		for(int j=0;j<frequences.size();j++){
+			if(frequences.get(j)>=threshold){
+				if(trouve==-1){
+					trouve=j;
+				}
+				else if((trouve!=-1)&&(frequences.get(trouve)<=frequences.get(j))){
+					trouve=j;
+				}		
+			}
+		}
+		if(trouve!=-1){
+			return modalites.get(trouve);
+		}
+		else{
+			return null;
+		}
 	}
+	
+	/**
+	 * TO DELETE
+	 */
+	/**
+	 * TO DELETE
+	 */
+	/**
+	 * TO DELETE
+	 */
+	
+/*	@Test
+	public void testQuali(){
+		ArrayList<String> liste=new ArrayList<String>();
+		liste.add("salut");
+		liste.add("salut");
+		liste.add("salut");
+		liste.add("salut");
+		liste.add("salut");
+		liste.add("test");
+		liste.add("test");
+		liste.add("test");
+		liste.add("test");
+		try {
+			System.out.println(this.faitsInteressantsQuali(liste, 0.3));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}		
+	}*/
+	
 }
