@@ -263,8 +263,7 @@ public class Statistique4TestThibault {
 		}		
 	}*/
 	
-	/**
-	 * Fonction pour envoyer une ArrayList<ArrayList<double>> dans d3js
-	 */
+	
+	
 
 }
