@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : BSD-POSIX fréquence : 0.030303030303030304 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.06060606060606061 
+0.01 des valeurs sont égales à modalité : Monolithic with modules fréquence : 0.030303030303030304 

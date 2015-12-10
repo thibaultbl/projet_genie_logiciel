@@ -1,0 +1,8 @@
+0.01 des valeurs sont égales à modalité : 16
+24 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : 8
+8 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : GDDR3 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : 240
+360 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : PCIe 1.0 x16 fréquence : 0.5 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : <75 Max fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Turks fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : PCIe 2.1 x16 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : 480(96×5):24:8 fréquence : 0.25 

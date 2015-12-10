@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.05 
+0.01 des valeurs sont égales à modalité : HTML fréquence : 0.05 
+0.01 des valeurs sont égales à modalité : Web-based fréquence : 0.05 
+0.01 des valeurs sont égales à modalité : PythonAnywhere LLP fréquence : 0.05 

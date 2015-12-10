@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : x86 16-bit fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Win16 fréquence : 0.25 

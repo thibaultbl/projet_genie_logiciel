@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : 2× 1792:112:32 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 2× 240 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 2× 3072 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : Tahiti PRO fréquence : 0.2 

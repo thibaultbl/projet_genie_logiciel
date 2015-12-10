@@ -1,0 +1,31 @@
+0.01 des valeurs sont égales à modalité : 1602 
+1606 
+160A 
+160B 
+160D 
+160E 
+1612 
+1616 
+161A 
+161B 
+161D 
+161E 
+
+1622 
+1626 
+162A 
+162B 
+162D 
+162E 
+1632 
+1636 
+163A 
+163B 
+163D 
+163E fréquence : 0.03125 
+0.01 des valeurs sont égales à modalité : 300–1150 fréquence : 0.03125 
+0.01 des valeurs sont égales à modalité : Core i7-5775C
+ Core i5-5775R fréquence : 0.03125 
+0.01 des valeurs sont égales à modalité : Broadwell fréquence : 0.03125 
+0.01 des valeurs sont égales à modalité : 4.3 on Windows
+3.3 on Linux fréquence : 0.03125 

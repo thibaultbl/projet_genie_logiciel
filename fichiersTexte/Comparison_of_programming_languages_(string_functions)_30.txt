@@ -1,0 +1,1 @@
+0.01 des valeurs sont égales à modalité : Reverses the order of the characters in the string. fréquence : 1.0 

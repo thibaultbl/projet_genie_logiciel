@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Encryption fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : DHT fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Super-seeding fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Tracker fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : NAT Port Mapping Protocol fréquence : 0.25 

@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : 448:56:48 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : GF100 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.14285714285714285 

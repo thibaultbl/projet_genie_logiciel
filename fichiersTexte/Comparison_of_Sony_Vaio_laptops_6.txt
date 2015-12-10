@@ -1,0 +1,7 @@
+0.01 des valeurs sont égales à modalité : B-Black fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : 500 GB HDD fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : 4 GB DDR3 SDRAM fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : Windows 7
+ Home Premium
+ 64-bit fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : 5.8 kg fréquence : 1.0 

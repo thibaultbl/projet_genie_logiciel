@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : CommonCrypto fréquence : 0.06666666666666667 
+0.01 des valeurs sont égales à modalité : Windows CSP fréquence : 0.06666666666666667 
+0.01 des valeurs sont égales à modalité : OpenSSL engine fréquence : 0.06666666666666667 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : License fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : AntiSpam fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : AntiTheft fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Support fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Firewall fréquence : 0.25 

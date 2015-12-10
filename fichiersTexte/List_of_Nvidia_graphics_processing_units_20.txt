@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : 480:60:40 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : GF110-275-A1 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : $349 fréquence : 0.058823529411764705 

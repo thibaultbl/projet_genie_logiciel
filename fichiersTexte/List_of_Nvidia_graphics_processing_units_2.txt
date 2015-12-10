@@ -1,0 +1,7 @@
+0.01 des valeurs sont égales à modalité : NV1A fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : DDR fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : 64
+128 fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : 2.128
+4.256 fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : FSB fréquence : 0.125 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : TBD MHz fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : 500 GB HDD fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : 4 GB fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : $499 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : Intel HD Graphics 5000 fréquence : 0.14285714285714285 

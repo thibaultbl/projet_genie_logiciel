@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Centralistic fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : Open standard fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : Thorvald Natvig fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : Username fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : 1999 Jul fréquence : 0.0625 

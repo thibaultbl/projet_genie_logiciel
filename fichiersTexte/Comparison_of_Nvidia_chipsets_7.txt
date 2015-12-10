@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : HDA fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : HT 1 GHz fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Onboard GeForce 6100 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : MCP61 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : 8 Ports Rev 2.0 fréquence : 0.25 

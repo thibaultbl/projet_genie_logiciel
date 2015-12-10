@@ -1,0 +1,7 @@
+0.01 des valeurs sont égales à modalité : aload_1
+iload_2
+dup2
+iaload
+iconst_1
+iadd
+iastore fréquence : 1.0 

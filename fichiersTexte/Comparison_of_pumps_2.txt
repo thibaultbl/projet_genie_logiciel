@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : continuous fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : 3m-200m fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : industrial fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : high fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : medium-high fréquence : 0.1 

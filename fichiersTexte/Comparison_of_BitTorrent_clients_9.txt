@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Remote control via web fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Prioritization fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Selective downloads fréquence : 0.25 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : Engine fréquence : 0.25 

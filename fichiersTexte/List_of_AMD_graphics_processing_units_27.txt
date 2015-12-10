@@ -1,0 +1,6 @@
+0.01 des valeurs sont égales à modalité : 1800
+4500 fréquence : 0.1111111111111111 
+0.01 des valeurs sont égales à modalité : Oland XT fréquence : 0.1111111111111111 
+0.01 des valeurs sont égales à modalité : OEM fréquence : 0.1111111111111111 
+0.01 des valeurs sont égales à modalité : 384:24:8 fréquence : 0.1111111111111111 
+0.01 des valeurs sont égales à modalité : PCIe 3.0 ×16 fréquence : 0.1111111111111111 

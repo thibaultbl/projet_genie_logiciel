@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité :  fréquence : 0.2857142857142857 
+0.01 des valeurs sont égales à modalité : depends on Window System fréquence : 0.14285714285714285 

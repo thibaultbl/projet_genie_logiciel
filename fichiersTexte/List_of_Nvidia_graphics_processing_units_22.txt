@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : 384:32:8 fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : GK208-400-A1 fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : $69–79 fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x8 fréquence : 0.045454545454545456 

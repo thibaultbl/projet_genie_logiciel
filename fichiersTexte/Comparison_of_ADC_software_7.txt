@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : Eclipse RCP fréquence : 0.07692307692307693 
+0.01 des valeurs sont égales à modalité : Tiger tree hash fréquence : 0.07692307692307693 

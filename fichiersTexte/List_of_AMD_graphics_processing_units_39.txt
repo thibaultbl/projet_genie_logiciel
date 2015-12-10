@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : 320:16:8 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : DDR3-1333 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : 35 - 45 fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : BeaverCreek fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : A6-3400M A6-3410MX fréquence : 0.25 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Live-Update fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Price fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Software fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Support fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Country of origin fréquence : 0.25 

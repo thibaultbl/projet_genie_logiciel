@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité :  fréquence : 0.8 
+0.01 des valeurs sont égales à modalité : On-access scan fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : Price fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : On-demand scan fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : Support fréquence : 0.2 

@@ -1,0 +1,7 @@
+0.01 des valeurs sont égales à modalité : 548-pin
+FC-BGA fréquence : 0.09090909090909091 
+0.01 des valeurs sont égales à modalité : SB700S fréquence : 0.09090909090909091 
+0.01 des valeurs sont égales à modalité : DASH 1.0
+Server southbridge fréquence : 0.09090909090909091 
+0.01 des valeurs sont égales à modalité : 12 + 2 fréquence : 0.09090909090909091 
+0.01 des valeurs sont égales à modalité : Q1 2008 fréquence : 0.09090909090909091 

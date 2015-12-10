@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : tu fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : vu fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : lu fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : me fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : ni fréquence : 0.3333333333333333 

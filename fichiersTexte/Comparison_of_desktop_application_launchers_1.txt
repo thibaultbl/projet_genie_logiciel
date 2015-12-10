@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : Java fréquence : 0.06666666666666667 
+0.01 des valeurs sont égales à modalité : 1.2.0 fréquence : 0.06666666666666667 
+0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.06666666666666667 

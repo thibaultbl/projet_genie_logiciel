@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : for B&N Kids Books fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : 600 × 1024 fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : Android 2.2 fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : microSDHC fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : Nook Color fréquence : 0.07142857142857142 

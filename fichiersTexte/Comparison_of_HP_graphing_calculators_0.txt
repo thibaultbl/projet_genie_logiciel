@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Entry RPN fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : 1993-2003 fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : 131x64 pixel monochrome LCD fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : Dynamic fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : 8-bit fréquence : 0.045454545454545456 

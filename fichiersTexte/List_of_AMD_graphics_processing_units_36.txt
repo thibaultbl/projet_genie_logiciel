@@ -1,0 +1,6 @@
+0.01 des valeurs sont égales à modalité : PCIe x16 2.0 fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : RV730 fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : DDR3
+GDDR3 fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : M96 fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : 320:32:8 fréquence : 0.05263157894736842 

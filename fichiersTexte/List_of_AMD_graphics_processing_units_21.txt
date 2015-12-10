@@ -1,0 +1,6 @@
+0.01 des valeurs sont égales à modalité : $180 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : Cayman CE fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : Dec 2011 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : PCIe 2.1 ×16 fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : 1200
+1200 fréquence : 0.058823529411764705 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : MS-DOS 8.0 fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : Closed source fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : Desktops fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : Millennium fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : 2000-06-19 fréquence : 0.3333333333333333 

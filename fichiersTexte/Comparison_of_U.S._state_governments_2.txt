@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : None fréquence : 0.019230769230769232 
+0.01 des valeurs sont égales à modalité : Lieutenant Governor fréquence : 0.019230769230769232 
+0.01 des valeurs sont égales à modalité : Four years fréquence : 0.019230769230769232 

@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : GNU GPL fréquence : 0.06666666666666667 
+0.01 des valeurs sont égales à modalité : C++ fréquence : 0.06666666666666667 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.6 

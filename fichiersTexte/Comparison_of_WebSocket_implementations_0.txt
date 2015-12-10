@@ -1,0 +1,6 @@
+0.01 des valeurs sont égales à modalité : 2^16 fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : new BSD License fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : RFC 6455 fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : C++ fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : 2.17
+17 June 2014 fréquence : 0.0625 

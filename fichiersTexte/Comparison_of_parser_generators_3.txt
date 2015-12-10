@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : external fréquence : 0.037037037037037035 
+0.01 des valeurs sont égales à modalité : Earley fréquence : 0.037037037037037035 
+0.01 des valeurs sont égales à modalité : MIT fréquence : 0.037037037037037035 
+0.01 des valeurs sont égales à modalité : Python fréquence : 0.037037037037037035 
+0.01 des valeurs sont égales à modalité : all fréquence : 0.037037037037037035 

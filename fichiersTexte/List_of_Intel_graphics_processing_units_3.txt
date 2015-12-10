@@ -1,0 +1,7 @@
+0.01 des valeurs sont égales à modalité : Q45 fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : 2E12
+2E13 fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : Eaglelake fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : 2.0 on Windows 7
+2.1 on Linux fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : Desktop fréquence : 0.05263157894736842 

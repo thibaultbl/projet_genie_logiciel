@@ -1,0 +1,6 @@
+0.01 des valeurs sont égales à modalité : NV36 fréquence : 0.04 
+0.01 des valeurs sont égales à modalité : 4:3:4:4 fréquence : 0.04 
+0.01 des valeurs sont égales à modalité : GDDR2 fréquence : 0.04 
+0.01 des valeurs sont égales à modalité : AGP 8X fréquence : 0.04 
+0.01 des valeurs sont égales à modalité : 128
+256 fréquence : 0.04 

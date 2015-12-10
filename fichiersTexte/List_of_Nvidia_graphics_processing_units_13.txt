@@ -1,0 +1,8 @@
+0.01 des valeurs sont égales à modalité : July 2008 fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : G92a
+G92b fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : 125
+105 fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : 324
+260 fréquence : 0.05555555555555555 

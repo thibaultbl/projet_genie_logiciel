@@ -1,0 +1,6 @@
+0.01 des valeurs sont égales à modalité : 1.0a
+56 lanes fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : 5 Ports fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : 20 Ports Rev 2.0 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : x16+x16+x8+x8 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : 2 Ports UDMA 133 fréquence : 0.5 

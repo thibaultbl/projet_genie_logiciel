@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : James Thomson fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : C++ fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : 5.9.11 fréquence : 0.125 
+0.01 des valeurs sont égales à modalité : Mac OS X fréquence : 0.125 

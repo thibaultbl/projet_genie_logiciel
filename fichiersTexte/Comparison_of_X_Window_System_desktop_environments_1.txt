@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : Konqueror fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité : Web fréquence : 0.045454545454545456 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.4090909090909091 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.2727272727272727 

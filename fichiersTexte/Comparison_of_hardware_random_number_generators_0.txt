@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : USB fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : OneRNG fréquence : 0.058823529411764705 
+0.01 des valeurs sont égales à modalité : $50 NZD fréquence : 0.058823529411764705 

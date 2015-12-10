@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : OEM products fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 128:64:16 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GDDR3 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : G92b fréquence : 0.2 

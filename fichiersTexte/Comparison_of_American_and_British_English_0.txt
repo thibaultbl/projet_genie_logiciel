@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : 12th grade fréquence : 0.047619047619047616 
+0.01 des valeurs sont égales à modalité : Senior year fréquence : 0.047619047619047616 
+0.01 des valeurs sont égales à modalité : Year 13 fréquence : 0.047619047619047616 

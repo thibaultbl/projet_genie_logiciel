@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : West Germany fréquence : 0.043478260869565216 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.30434782608695654 
+0.01 des valeurs sont égales à modalité : FRG1988 fréquence : 0.043478260869565216 
+0.01 des valeurs sont égales à modalité : FRG1989 fréquence : 0.043478260869565216 

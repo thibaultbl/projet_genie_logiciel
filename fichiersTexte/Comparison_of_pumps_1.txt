@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : medium fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : high fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : medium-high fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : cyclic fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : 2m-200m fréquence : 0.05555555555555555 

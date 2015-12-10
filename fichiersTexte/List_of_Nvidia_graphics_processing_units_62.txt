@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : PCIe 1.0 x16 fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : 8:24:24:16 fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : G72GLM fréquence : 0.1 
+0.01 des valeurs sont égales à modalité : GDDR3 fréquence : 0.1 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.9 

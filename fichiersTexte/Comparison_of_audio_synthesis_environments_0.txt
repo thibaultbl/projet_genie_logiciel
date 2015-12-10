@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : 2015-03 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : BSD-like fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : Graphical fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : Mature fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : Free fréquence : 0.14285714285714285 

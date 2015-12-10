@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : ECMA-262 fréquence : 0.05 
+0.01 des valeurs sont égales à modalité : BSD3 fréquence : 0.05 

@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : 2011-07-07 fréquence : 0.043478260869565216 
+0.01 des valeurs sont égales à modalité : Apache License 2.0 fréquence : 0.043478260869565216 
+0.01 des valeurs sont égales à modalité : Java fréquence : 0.043478260869565216 

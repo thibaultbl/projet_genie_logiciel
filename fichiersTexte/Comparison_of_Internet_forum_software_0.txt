@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Matt Mecham (original creator) Joshua Johnson fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : 2011-11-01 fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : Perl fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : 3.1.5A fréquence : 0.041666666666666664 

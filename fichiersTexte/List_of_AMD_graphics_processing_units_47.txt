@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Tahiti XT fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 2048:128:32 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : <274 fréquence : 0.2 

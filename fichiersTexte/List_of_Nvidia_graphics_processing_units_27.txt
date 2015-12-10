@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : HyperTransport fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : DDR2 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : System Memory fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : C51M fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : 2:1:2:1 fréquence : 0.14285714285714285 

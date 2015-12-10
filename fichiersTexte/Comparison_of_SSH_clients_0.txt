@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : NetSarang fréquence : 0.03225806451612903 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.22580645161290322 
+0.01 des valeurs sont égales à modalité : Active fréquence : 0.03225806451612903 
+0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.03225806451612903 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Mobility Radeon HD 5730 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : 400(80×5):20:8 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : 11 SM 5 fréquence : 0.08333333333333333 

@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : 16 kHz fréquence : 0.05 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 14 bit fréquence : 0.05 

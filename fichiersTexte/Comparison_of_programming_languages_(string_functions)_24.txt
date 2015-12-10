@@ -1,0 +1,1 @@
+0.01 des valeurs sont égales à modalité : Returns the string in lower case. fréquence : 1.0 

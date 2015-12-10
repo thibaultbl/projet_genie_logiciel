@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : Recursive descent fréquence : 0.023809523809523808 
+0.01 des valeurs sont égales à modalité : Apache License 2.0 fréquence : 0.023809523809523808 
+0.01 des valeurs sont égales à modalité : Java Virtual Machine fréquence : 0.023809523809523808 
+0.01 des valeurs sont égales à modalité : mixed fréquence : 0.023809523809523808 

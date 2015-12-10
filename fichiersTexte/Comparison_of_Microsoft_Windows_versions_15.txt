@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : 512 MB fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : 1 GHz fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : 8 GB fréquence : 1.0 

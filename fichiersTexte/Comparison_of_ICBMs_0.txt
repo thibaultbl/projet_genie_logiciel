@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité :  fréquence : 0.04 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.36 
+0.01 des valeurs sont égales à modalité : Russia fréquence : 0.02 
+0.01 des valeurs sont égales à modalité : RT-2PM2 Topol-M fréquence : 0.02 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.12 

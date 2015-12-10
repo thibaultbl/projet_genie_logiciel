@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : Linux fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : GPL fréquence : 0.05263157894736842 
+0.01 des valeurs sont égales à modalité : Text-based fréquence : 0.05263157894736842 

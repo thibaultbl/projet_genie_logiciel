@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : Computer Aided Design fréquence : 0.023809523809523808 
+0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.023809523809523808 
+0.01 des valeurs sont égales à modalité : Trimble Navigation fréquence : 0.023809523809523808 

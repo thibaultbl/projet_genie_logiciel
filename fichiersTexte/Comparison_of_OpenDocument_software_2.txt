@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : LGPL fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : LibreOffice fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : LibreOffice fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : 3.3.0 fréquence : 0.08333333333333333 

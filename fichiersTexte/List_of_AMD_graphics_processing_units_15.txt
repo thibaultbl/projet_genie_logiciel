@@ -1,0 +1,9 @@
+0.01 des valeurs sont égales à modalité : 405
+800 fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : 256
+512
+1024 fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16
+AGP 8x fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : RV635 PRO fréquence : 0.07142857142857142 
+0.01 des valeurs sont égales à modalité : 120:8:4 fréquence : 0.07142857142857142 

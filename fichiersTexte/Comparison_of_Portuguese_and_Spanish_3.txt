@@ -1,0 +1,8 @@
+0.01 des valeurs sont égales à modalité : la suya
+"yours" fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : su casa
+"your house" fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : a sua
+"yours" fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : (a) sua casa
+"your house" fréquence : 0.5 

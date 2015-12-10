@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : Automatic testing framework fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : Metrics tool fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : V7.1 June 2012 fréquence : 1.0 
+0.01 des valeurs sont égales à modalité : Multi-view fréquence : 1.0 

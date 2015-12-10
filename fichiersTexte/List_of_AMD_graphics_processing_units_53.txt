@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : RV670 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GDDR3 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.2 

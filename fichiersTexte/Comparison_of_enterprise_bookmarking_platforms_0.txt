@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : browser fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : Licorize fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : Java fréquence : 0.16666666666666666 

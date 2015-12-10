@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité :  fréquence : 0.027559055118110236 
+0.01 des valeurs sont égales à null 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.01968503937007874 

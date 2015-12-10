@@ -1,0 +1,19 @@
+0.01 des valeurs sont égales à modalité : 650–1300 fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : 0102
+0106
+0112
+0116
+0122
+0126
+010A fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : Core i3-23x0E
+Core i3-23xxM
+Core i5-251xE
+Core i5-2xxxM
+Core i7-2xxxQM
+Core i7-271xQE
+Core i7-29x0XM fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : Sandy Bridge fréquence : 0.14285714285714285 
+0.01 des valeurs sont égales à modalité : 3.1 on Windows
+ 3.3 on Mac OS X
+ 3.3 on Linux fréquence : 0.14285714285714285 

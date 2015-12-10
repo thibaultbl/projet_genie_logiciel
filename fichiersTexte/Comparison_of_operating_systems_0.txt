@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : Sun fréquence : 0.018518518518518517 
+0.01 des valeurs sont égales à modalité : SunOS fréquence : 0.018518518518518517 
+0.01 des valeurs sont égales à modalité : CDDL fréquence : 0.018518518518518517 

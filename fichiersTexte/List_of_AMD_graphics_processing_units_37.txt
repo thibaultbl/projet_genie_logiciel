@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : DDR3 fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : 160:8:4 fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : Seymour LP fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : Caicos fréquence : 0.041666666666666664 
+0.01 des valeurs sont égales à modalité : PCIe 2.1 x16 fréquence : 0.041666666666666664 

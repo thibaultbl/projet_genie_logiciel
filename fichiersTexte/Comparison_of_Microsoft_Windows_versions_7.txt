@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : Monolithic kernel fréquence : 0.25 
+0.01 des valeurs sont égales à modalité : Windows Update fréquence : 0.25 

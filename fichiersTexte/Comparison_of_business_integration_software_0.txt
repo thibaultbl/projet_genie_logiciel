@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : proprietary fréquence : 0.02631578947368421 
+0.01 des valeurs sont égales à modalité : Sun Microsystems fréquence : 0.02631578947368421 
+0.01 des valeurs sont égales à modalité : June 2008 fréquence : 0.02631578947368421 

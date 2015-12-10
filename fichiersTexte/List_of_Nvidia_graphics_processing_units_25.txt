@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : NV17M fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : 2:0:4:2 fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : AGP 8X fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : DDR fréquence : 0.16666666666666666 

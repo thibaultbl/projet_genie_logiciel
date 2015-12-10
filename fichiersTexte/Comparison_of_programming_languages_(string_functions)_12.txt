@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : evaluate aBlock which is a block closure (or any object understanding value) 
+ returns 0 fréquence : 0.029411764705882353 

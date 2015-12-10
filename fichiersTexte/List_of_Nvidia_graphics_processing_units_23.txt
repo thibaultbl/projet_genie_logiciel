@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 3072:192:96 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GM200-400 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : $999 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.2 

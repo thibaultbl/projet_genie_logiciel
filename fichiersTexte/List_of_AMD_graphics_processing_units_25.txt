@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : 533160:8:42.55.08.53DDR364200No918811.04.41.2OEM fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : Caicos fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : PCIe 2.1 ×16 fréquence : 0.0625 

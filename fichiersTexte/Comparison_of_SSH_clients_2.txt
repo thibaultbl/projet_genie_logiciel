@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : command line fréquence : 0.05 
+0.01 des valeurs sont égales à modalité : ProxyCommand fréquence : 0.05 

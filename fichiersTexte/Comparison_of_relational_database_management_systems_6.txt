@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Parallel Query fréquence : 0.022727272727272728 
+0.01 des valeurs sont égales à modalité : Union fréquence : 0.022727272727272728 
+0.01 des valeurs sont égales à modalité : Merge joins fréquence : 0.022727272727272728 
+0.01 des valeurs sont égales à modalité : Inner join fréquence : 0.022727272727272728 
+0.01 des valeurs sont égales à modalité : Outer join fréquence : 0.022727272727272728 

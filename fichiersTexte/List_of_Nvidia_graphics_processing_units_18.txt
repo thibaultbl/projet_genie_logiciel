@@ -1,0 +1,9 @@
+0.01 des valeurs sont égales à modalité : 96:32:8
+96:48?:12?
+112:56?:16? fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : GT215-301-A3 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 1250
+1340 fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : 500
+550 fréquence : 0.2 

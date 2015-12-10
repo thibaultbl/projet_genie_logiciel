@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : NT 6.1 fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : 2009-10-22 fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : "7" Server fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : Server fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : Supported fréquence : 0.05555555555555555 

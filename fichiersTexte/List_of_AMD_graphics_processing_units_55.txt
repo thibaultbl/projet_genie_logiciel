@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : AGP 4X fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : Mobility Radeon 9600 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : M10 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : 2:4:4:4 fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : DDR fréquence : 0.08333333333333333 

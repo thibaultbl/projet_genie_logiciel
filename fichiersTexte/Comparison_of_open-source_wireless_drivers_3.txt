@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : Separate project fréquence : 0.038461538461538464 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.23076923076923078 
+0.01 des valeurs sont égales à modalité : BSD fréquence : 0.038461538461538464 

@@ -16,7 +16,7 @@ public class CreationFichierTexteTest {
 		try{
 			FileWriter fw = new FileWriter(f);
 			for(int i=0;i<faitsInteressants.size();i++){
-				fw.write(faitsInteressants.get(i));
+				fw.write(faitsInteressants.get(i)+ " \r\n");
 			}
 			fw.close();
 		}

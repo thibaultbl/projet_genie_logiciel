@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : <50 fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : Cape Verde fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : 512:32:16 fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.16666666666666666 

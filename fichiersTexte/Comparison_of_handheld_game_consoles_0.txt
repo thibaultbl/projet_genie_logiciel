@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : 1979 1979 fréquence : 0.020833333333333332 
+0.01 des valeurs sont égales à modalité : Microvision fréquence : 0.020833333333333332 
+0.01 des valeurs sont égales à modalité : Milton Bradley Company fréquence : 0.020833333333333332 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.125 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : 16-128 system + 16 sideport fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : HT fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : 4:2:2:2 fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : 1.6-6.4 system + 0.8 sideport fréquence : 0.3333333333333333 
+0.01 des valeurs sont égales à modalité : DDR fréquence : 0.3333333333333333 

@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Mac OS X fréquence : 0.02 
+0.01 des valeurs sont égales à modalité : BSD fréquence : 0.02 
+0.01 des valeurs sont égales à modalité : Windows fréquence : 0.02 
+0.01 des valeurs sont égales à modalité : Linux fréquence : 0.02 
+0.01 des valeurs sont égales à modalité : Unix fréquence : 0.02 

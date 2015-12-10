@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : script fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : Defines the object to bind a scripting event. fréquence : 0.0625 
+0.01 des valeurs sont égales à modalité : Internet Explorer fréquence : 0.0625 

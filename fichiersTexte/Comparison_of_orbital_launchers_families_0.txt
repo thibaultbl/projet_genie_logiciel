@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : NPO Energia fréquence : 0.013513513513513514 
+0.01 des valeurs sont égales à modalité : Russia fréquence : 0.013513513513513514 
+0.01 des valeurs sont égales à modalité : Devel. fréquence : 0.013513513513513514 

@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : Uses decimal fréquence : 0.2 
+0.01 des valeurs sont égales à modalité : Uses floats fréquence : 0.2 

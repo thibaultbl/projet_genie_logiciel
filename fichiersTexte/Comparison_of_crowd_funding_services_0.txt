@@ -1,0 +1,4 @@
+0.01 des valeurs sont égales à modalité : AoN fréquence : 0.029411764705882353 
+0.01 des valeurs sont égales à modalité : US fréquence : 0.029411764705882353 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.08823529411764706 
+0.01 des valeurs sont égales à modalité :  fréquence : 0.35294117647058826 

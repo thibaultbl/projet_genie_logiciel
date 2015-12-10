@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Orthogonal line detection fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : Corner detection fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : Arc recognition fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : inside AutoCAD application available fréquence : 0.16666666666666666 
+0.01 des valeurs sont égales à modalité : Circle recognition fréquence : 0.16666666666666666 

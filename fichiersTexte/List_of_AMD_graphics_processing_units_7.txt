@@ -1,0 +1,3 @@
+0.01 des valeurs sont égales à modalité : DDR fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : AGP 8x fréquence : 0.05555555555555555 
+0.01 des valeurs sont égales à modalité : 8:4:8:8 fréquence : 0.05555555555555555 

@@ -1,0 +1,2 @@
+0.01 des valeurs sont égales à modalité : OSS fréquence : 0.08333333333333333 
+0.01 des valeurs sont égales à modalité : Closed fréquence : 0.08333333333333333 

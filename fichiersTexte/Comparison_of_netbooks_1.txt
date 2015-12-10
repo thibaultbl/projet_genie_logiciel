@@ -1,0 +1,5 @@
+0.01 des valeurs sont égales à modalité : Nokia Booklet 3G fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : HDD fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : 1280×720 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : Intel Atom Z530 fréquence : 0.5 
+0.01 des valeurs sont égales à modalité : November 2009 fréquence : 0.5 
