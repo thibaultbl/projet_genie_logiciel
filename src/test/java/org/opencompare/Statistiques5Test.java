@@ -29,16 +29,15 @@ public class Statistiques5Test {
 		ArrayList<String> types = new ArrayList<String>();
 		boolean isQuanti;
 
-		// on crée un tableau listant le nom de toutes les variables
+		// on crée un tableau listant le nom de toutes les lignes
 		ArrayList<String> noms = new ArrayList<String>();
-		boolean premiereLecture=true;
 
 		// importer les données
 		ArrayList<ArrayList> data = new ArrayList<ArrayList>();
 		ArrayList row;
 
 		// on ouvre le fichier
-		File file = new File("pcms/Comparison_between_Argentine_provinces_and_countries_by_GDP_(PPP)_per_capita_0.pcm");
+		File file = new File("pcms/List_of_AMD_graphics_processing_units_10.pcm");
 		PCMLoader loader = new KMFJSONLoader();
 		List<PCMContainer> pcmContainers = loader.load(file);
 
@@ -56,13 +55,10 @@ public class Statistiques5Test {
 					cell = product.findCell(feature);
 					// Get information contained in the cell
 					String content = cell.getContent();
+					//System.out.println(content);
 					row.add(content);
-
-					if(premiereLecture){
-						noms.add(feature.getName());
-					}
 				}
-				premiereLecture=false;
+				noms.add(product.getName());
 				data.add(row);
 				nbLignes++;
 			}
@@ -97,9 +93,6 @@ public class Statistiques5Test {
 			}
 		}
 
-
-
-
 		// stocker dans un arraylist(arraylist) les distances entre chaque couple d'individus
 		ArrayList<ArrayList<Double>> distances= new ArrayList<ArrayList<Double>>();
 
@@ -111,6 +104,8 @@ public class Statistiques5Test {
 				// Attribuer les vecteurs de valeurs
 				ArrayList<Value> valeurs1 = new ArrayList<Value>();
 				ArrayList<Value> valeurs2 = new ArrayList<Value>();
+				valeurs1=data.get(i);
+				valeurs2=data.get(j);
 				//System.out.println(distanceIndividus(valeurs1,valeurs2,types));
 				ligne.add(distanceIndividus(valeurs1,valeurs2,types));
 			}
