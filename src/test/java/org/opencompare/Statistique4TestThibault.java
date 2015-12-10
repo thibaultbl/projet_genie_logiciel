@@ -72,11 +72,10 @@ public class Statistique4TestThibault {
 	}*/
 
 
-
-
 	@Test
 	public void faitsInteressantsWithTreatment() throws IOException {
-		final double THRESHOLD = 0.02;
+		final double THRESHOLD = 0.01;
+		final double QUANTILE= 0.8;
 		final int NB_FAITS_INTERESSANTS =5;
 		int compteur_nb_faits_interessants=0;
 		File directory = new File("pcms");
@@ -117,8 +116,11 @@ public class Statistique4TestThibault {
 
 
 					}
-					listeInterpretation.add(cell.getInterpretation());
-					liste.add(listeTemp);
+					if(cell !=null){
+						listeInterpretation.add(cell.getInterpretation());
+						liste.add(listeTemp);
+					}
+
 				}
 			}
 			//System.out.println("change product :"+file.getName());
@@ -130,13 +132,15 @@ public class Statistique4TestThibault {
 			}
 			System.out.println(file.getName());
 			compteur_nb_faits_interessants=0;
+			ArrayList<String> faitsInteressants = new ArrayList<String>();
 			//on extraie les faits intéréssants (quali et quanti) par colonnes
 			for(int i=0;i<liste.size();i++ ){
 				if(compteur_nb_faits_interessants<NB_FAITS_INTERESSANTS){
 
 
 					if(((listeInterpretation.get(i) instanceof RealValue) || (listeInterpretation.get(i) instanceof IntegerValue) )&&(listeInterpretation.get(i) instanceof DateValue)){
-						double faitInteressantQuanti=this.faitsInteressantsQuanti(liste.get(i));
+						double faitInteressantQuanti=this.faitsInteressantsQuanti(liste.get(i), QUANTILE);
+						faitsInteressants.add(QUANTILE+" des valeurs sont inférieures à "+faitInteressantQuanti);
 						if(faitInteressantQuanti>0) {
 							System.out.println("faitInteressantQuanti"+faitInteressantQuanti);
 							compteur_nb_faits_interessants++;
@@ -145,6 +149,7 @@ public class Statistique4TestThibault {
 					}
 					if((listeInterpretation.get(i) instanceof StringValue)){
 						String faitInteressantQuali=this.faitsInteressantsQuali(liste.get(i), THRESHOLD);
+						faitsInteressants.add(THRESHOLD+" des valeurs sont égales à "+faitInteressantQuali);
 						if((faitInteressantQuali != null)&&(faitInteressantQuali != "")) {
 							System.out.println("faitInteressantQuali : "+faitInteressantQuali);
 							compteur_nb_faits_interessants++;
@@ -152,12 +157,11 @@ public class Statistique4TestThibault {
 					}
 				}
 			}
-
+			CreationFichierTexteTest.testEcritureFichier(faitsInteressants,file.getName().substring(0,file.getName().length()-4));
 		}
 	}
 
-
-	public double faitsInteressantsQuanti(ArrayList<String> liste) throws IOException {
+	public double faitsInteressantsQuanti(ArrayList<String> liste, double quantile) throws IOException {
 		double[] tabQuanti = new double[liste.size()];
 		for(int i=0;i<liste.size();i++){
 			NumberFormat nf = NumberFormat.getInstance();
@@ -175,7 +179,7 @@ public class Statistique4TestThibault {
 		Arrays.sort(tabQuanti);
 
 		//index du thresold à 90%
-		int index=(int)Math.round((tabQuanti.length)*0.9);
+		int index=(int)Math.round((tabQuanti.length)*quantile);
 
 		// on retourne le quantile à 90%
 		return tabQuanti[index];
