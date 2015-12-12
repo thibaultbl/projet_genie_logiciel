@@ -1,5 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : about 83% of Desktop GTX660 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : May 2013 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : GK106 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : GDDR5 fréquence : 0.06666666666666667 

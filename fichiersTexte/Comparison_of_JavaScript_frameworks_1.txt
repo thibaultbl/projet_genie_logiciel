@@ -1,2 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : With plugins fréquence : 0.034482758620689655 
-*treshold*% des valeurs sont égales à modalité :  fréquence : 0.1724137931034483 

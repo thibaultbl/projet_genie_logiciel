@@ -1,4 +1,0 @@
-*treshold*% des valeurs sont égales à modalité :  fréquence : 0.023529411764705882 
-*treshold*% des valeurs sont égales à null 
-*treshold*% des valeurs sont égales à modalité :  fréquence : 0.058823529411764705 
-*treshold*% des valeurs sont égales à null 

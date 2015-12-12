@@ -1,5 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : Internal PCIe x16 1.1 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : up to 512 from system memory fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : DDR2 DDR3 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : 40:4:4 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : RV620 fréquence : 0.06666666666666667 

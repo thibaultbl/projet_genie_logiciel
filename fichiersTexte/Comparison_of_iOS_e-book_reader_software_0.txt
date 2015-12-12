@@ -1,2 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : Unlimited fréquence : 0.05263157894736842 
-*treshold*% des valeurs sont égales à modalité : In-book only fréquence : 0.05263157894736842 

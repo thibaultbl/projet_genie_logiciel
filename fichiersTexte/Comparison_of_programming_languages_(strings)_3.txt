@@ -1,1 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : REBOL fréquence : 0.16666666666666666 

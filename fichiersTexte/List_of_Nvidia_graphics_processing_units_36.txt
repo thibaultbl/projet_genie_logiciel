@@ -1,6 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : October 2012 fréquence : 0.05555555555555555 
-*treshold*% des valeurs sont égales à modalité : 1536
-3072 fréquence : 0.05555555555555555 
-*treshold*% des valeurs sont égales à modalité : GDDR5 fréquence : 0.05555555555555555 
-*treshold*% des valeurs sont égales à modalité : 61% of desktop GTX 660 fréquence : 0.05555555555555555 
-*treshold*% des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.05555555555555555 

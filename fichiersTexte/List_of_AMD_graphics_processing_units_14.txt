@@ -1,4 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : RV610 fréquence : 0.125 
-*treshold*% des valeurs sont égales à modalité : PCIe 1.0 ×16 fréquence : 0.125 
-*treshold*% des valeurs sont égales à modalité : 40:4:4 fréquence : 0.125 
-*treshold*% des valeurs sont égales à modalité : GDDR3 fréquence : 0.125 

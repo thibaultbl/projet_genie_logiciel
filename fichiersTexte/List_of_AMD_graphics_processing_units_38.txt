@@ -1,5 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : 4.56 - 5.39 fréquence : 0.25 
-*treshold*% des valeurs sont égales à modalité : DDR3-1333 fréquence : 0.25 
-*treshold*% des valeurs sont égales à modalité : 82 - 97 fréquence : 0.25 
-*treshold*% des valeurs sont égales à modalité : 80:8:4 fréquence : 0.25 
-*treshold*% des valeurs sont égales à modalité : E-450 fréquence : 0.25 

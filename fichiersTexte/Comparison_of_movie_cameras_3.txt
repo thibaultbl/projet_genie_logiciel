@@ -1,2 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : cam-driven fréquence : 0.03571428571428571 
-*treshold*% des valeurs sont égales à modalité : 4 perf fréquence : 0.03571428571428571 

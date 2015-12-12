@@ -1,2 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : command line fréquence : 0.05 
-*treshold*% des valeurs sont égales à modalité : ProxyCommand fréquence : 0.05 

@@ -1,2 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : progeCAD fréquence : 0.2 
-*treshold*% des valeurs sont égales à modalité : EN fréquence : 0.2 

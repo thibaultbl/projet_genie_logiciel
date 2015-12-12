@@ -1,4 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : 2× 128 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : 2x DMS-59 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : PCI-Express ×16 fréquence : 0.06666666666666667 
-*treshold*% des valeurs sont égales à modalité : 2×NV43 fréquence : 0.06666666666666667 

@@ -1,7 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : 4:4:4 fréquence : 0.5 
-*treshold*% des valeurs sont égales à modalité : NV10 fréquence : 0.5 
-*treshold*% des valeurs sont égales à modalité : 32
-64 fréquence : 0.5 
-*treshold*% des valeurs sont égales à modalité : SDR fréquence : 0.5 
-*treshold*% des valeurs sont égales à modalité : AGP 4x
-PCI fréquence : 0.5 

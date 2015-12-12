@@ -1,3 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : Limited fréquence : 0.023809523809523808 
-*treshold*% des valeurs sont égales à modalité : Trolltech fréquence : 0.023809523809523808 
-*treshold*% des valeurs sont égales à modalité : Limited fréquence : 0.023809523809523808 

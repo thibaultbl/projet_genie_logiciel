@@ -131,37 +131,25 @@ public class Statistiques5Test {
 		for(int i=0;i<valeurs1.size();i++){
 			if(types.get(i)=="quali"){
 				distance+=distanceQuali(String.valueOf(valeurs1.get(i)),String.valueOf(valeurs2.get(i)));
-				//System.out.println(distance);
 			}
 			else{
-				//System.out.println(Double.valueOf(String.valueOf(valeurs1.get(i))));
-				//System.out.println(Double.valueOf(String.valueOf(valeurs2.get(i))));
-				//System.out.println(minimums.get(i));
-				//erreur ici
 				distance+=distanceQuanti(Double.valueOf(String.valueOf(valeurs1.get(i))),Double.valueOf(String.valueOf(valeurs2.get(i))));
-				//System.out.println(distance);
 			}
 		}
-		//System.out.println(distance);
 		return distance;
 	}
 
 	// calcul des distances entre 2 valeurs quanti (comprises entre 0 et 1.5)
 	public double distanceQuanti(double x1, double x2) throws IOException {
-		//System.out.println("quanti");
-		//System.out.println(Math.sqrt(Math.pow(x1-x2,2)));
 		return Math.sqrt(Math.pow(x1-x2,2));
 	}
 
 	// calcul des distances entre 2 valeurs quali (0 ou 1)
 	public double distanceQuali(String x1, String x2) throws IOException {
-		//System.out.println("quali");
 		if(x1==x2){
-			//System.out.println(0);
 			return 0;
 		}
 		else{
-			//System.out.println(1);
 			return 1;
 		}
 	}
@@ -223,30 +211,6 @@ public class Statistiques5Test {
 
 	@Test
 	public void test(){
-		/*ArrayList<Double> array1=new ArrayList<Double>();
-		array1.add(1.5);
-		array1.add(2.5);
-		array1.add(3.5);
-		ArrayList<Double> array2=new ArrayList<Double>();
-		array2.add(4.5);
-		array2.add(5.5);
-		array2.add(6.5);
-		ArrayList<Double> array3=new ArrayList<Double>();
-		array3.add(7.5);
-		array3.add(8.5);
-		array3.add(9.5);
-		ArrayList<ArrayList<Double>> array=new ArrayList<ArrayList<Double>>();
-		array.add(array1);
-		array.add(array2);
-		array.add(array3);
-
-		ArrayList<String> nom=new ArrayList<String>();
-		nom.add("paul");
-		nom.add("Jean");
-		nom.add("Alfred");
-
-		this.transformationMatrixToD3js(array, "test", nom);*/
-
 		genererHTML("test");
 	}
 }

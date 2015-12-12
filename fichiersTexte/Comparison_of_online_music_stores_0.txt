@@ -1,2 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : Web fréquence : 0.03571428571428571 
-*treshold*% des valeurs sont égales à modalité : Full fréquence : 0.03571428571428571 

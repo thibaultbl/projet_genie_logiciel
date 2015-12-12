@@ -1,5 +1,0 @@
-*treshold*% des valeurs sont égales à modalité : Google Fusion Tables fréquence : 0.03571428571428571 
-*treshold*% des valeurs sont égales à modalité : Google Drawings fréquence : 0.03571428571428571 
-*treshold*% des valeurs sont égales à modalité : Google Drawings fréquence : 0.03571428571428571 
-*treshold*% des valeurs sont égales à modalité : Google Sheets fréquence : 0.03571428571428571 
-*treshold*% des valeurs sont égales à modalité : Google Slides fréquence : 0.03571428571428571 
