@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : TLS 1.2 fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : TLS 1.1 fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : DTLS 1.2 fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : TLS 1.0 fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : DTLS 1.0 fréquence : 0.05 

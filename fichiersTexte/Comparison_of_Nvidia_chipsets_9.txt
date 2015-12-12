@@ -1,7 +1,0 @@
-0.01 des valeurs sont égales à modalité : Crush51 + MCP51 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 2 Ports UDMA 133 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 1.0a
-20 lanes fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : DDR2-666
-dual channel fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : HDA fréquence : 0.5 

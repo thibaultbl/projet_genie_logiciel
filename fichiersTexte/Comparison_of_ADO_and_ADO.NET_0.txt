@@ -1,2 +1,0 @@
-0.01 des valeurs sont égales à modalité : ADO.NET uses XML for passing the data. fréquence : 0.14285714285714285 
-0.01 des valeurs sont égales à modalité : ADO objects communicate in binary mode. fréquence : 0.14285714285714285 

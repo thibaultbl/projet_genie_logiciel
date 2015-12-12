@@ -1,3 +1,0 @@
-0.01 des valeurs sont égales à modalité : 16 KB fréquence : 0.029411764705882353 
-0.01 des valeurs sont égales à modalité : Z80 fréquence : 0.029411764705882353 
-0.01 des valeurs sont égales à modalité : None fréquence : 0.029411764705882353 

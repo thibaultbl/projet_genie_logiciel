@@ -1,4 +1,4 @@
-0.01 des valeurs sont égales à modalité : No prov return for QC fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Free fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : G. Thompson fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Windows fréquence : 0.05 
+*treshold*% des valeurs sont égales à modalité : No prov return for QC fréquence : 0.05 
+*treshold*% des valeurs sont égales à modalité : Free fréquence : 0.05 
+*treshold*% des valeurs sont égales à modalité : G. Thompson fréquence : 0.05 
+*treshold*% des valeurs sont égales à modalité : Windows fréquence : 0.05 

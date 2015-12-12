@@ -1,7 +1,0 @@
-0.01 des valeurs sont égales à modalité : NV20 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : DDR fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 64
-128 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : AGP 4x
-PCI fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 4:1:8:4 fréquence : 0.3333333333333333 

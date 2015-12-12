@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : MySQL fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : 2.0.2.0 fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : PHP fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : GPLv3 fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité :  fréquence : 0.125 

@@ -1,7 +1,0 @@
-0.01 des valeurs sont égales à modalité : DDR fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : 4:3:4:4 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : AGP 8x
-PCI-E x16 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : NV43 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : 128
-256 fréquence : 0.045454545454545456 

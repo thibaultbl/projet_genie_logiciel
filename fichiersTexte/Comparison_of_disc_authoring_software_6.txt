@@ -1,3 +1,0 @@
-0.01 des valeurs sont égales à modalité : Text user interface fréquence : 0.08333333333333333 
-0.01 des valeurs sont égales à modalité : Command line interface fréquence : 0.08333333333333333 
-0.01 des valeurs sont égales à modalité : Graphical user interface fréquence : 0.08333333333333333 

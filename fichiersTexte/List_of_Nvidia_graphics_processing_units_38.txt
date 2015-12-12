@@ -1,3 +1,0 @@
-0.01 des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.07142857142857142 
-0.01 des valeurs sont égales à modalité : DDR3 fréquence : 0.07142857142857142 
-0.01 des valeurs sont égales à modalité : GM108 fréquence : 0.07142857142857142 

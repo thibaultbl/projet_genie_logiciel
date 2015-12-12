@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"nForce 410", "group":0},
+{"name":"nForce 405", "group":1},
+{"name":"nForce 430", "group":2},
+{"name":"nForce 400", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":14.0},
+{"source":0, "target":2, "value":13.0},
+{"source":0, "target":3, "value":14.0},
+{"source":1, "target":0, "value":14.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":13.0},
+{"source":1, "target":3, "value":12.0},
+{"source":2, "target":0, "value":13.0},
+{"source":2, "target":1, "value":13.0},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":13.0},
+{"source":3, "target":0, "value":14.0},
+{"source":3, "target":1, "value":12.0},
+{"source":3, "target":2, "value":13.0},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

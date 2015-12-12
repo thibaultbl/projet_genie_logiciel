@@ -1,6 +1,0 @@
-0.01 des valeurs sont égales à modalité : RAID support fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : Hard drive
-self-testing fréquence : 0.1 
-0.01 des valeurs sont égales à modalité :  fréquence : 0.3 
-0.01 des valeurs sont égales à modalité : User interface fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : Shows S.M.A.R.T. attributes fréquence : 0.1 

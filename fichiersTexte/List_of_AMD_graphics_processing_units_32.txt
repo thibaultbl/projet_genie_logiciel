@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : PCIe x16 fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : DDR2 GDDR3 fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : M62 fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : 2:4:4:4 fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : RV515 fréquence : 0.1111111111111111 

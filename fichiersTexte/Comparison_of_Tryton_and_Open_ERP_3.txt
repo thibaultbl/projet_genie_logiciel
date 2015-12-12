@@ -1,2 +1,0 @@
-0.01 des valeurs sont égales à modalité : Release Process fréquence : 0.02857142857142857 
-0.01 des valeurs sont égales à modalité : Major Version (i.e. 7.0) = approximately every 12 months fréquence : 0.02857142857142857 

@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"Radeon R9 M370X", "group":0},
+{"name":"Radeon R9 M375", "group":1},
+{"name":"Radeon R7 M360", "group":2},
+{"name":"Radeon R5 M330", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":288.0},
+{"source":0, "target":2, "value":324.0},
+{"source":0, "target":3, "value":444.5},
+{"source":1, "target":0, "value":288.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":597.0},
+{"source":1, "target":3, "value":717.5},
+{"source":2, "target":0, "value":324.0},
+{"source":2, "target":1, "value":597.0},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":135.5},
+{"source":3, "target":0, "value":444.5},
+{"source":3, "target":1, "value":717.5},
+{"source":3, "target":2, "value":135.5},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

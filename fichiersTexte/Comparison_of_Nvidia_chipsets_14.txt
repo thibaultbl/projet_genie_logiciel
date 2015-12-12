@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : MCP78 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : Onboard GeForce 8300 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 1 Ports UDMA 133 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 5 Ports fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : HDA fréquence : 0.3333333333333333 

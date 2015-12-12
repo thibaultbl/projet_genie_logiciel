@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : 2011-07-29 fréquence : 0.038461538461538464 
-0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.038461538461538464 
-0.01 des valeurs sont égales à modalité : MechSoft fréquence : 0.038461538461538464 
-0.01 des valeurs sont égales à modalité : 2.0.0 fréquence : 0.038461538461538464 

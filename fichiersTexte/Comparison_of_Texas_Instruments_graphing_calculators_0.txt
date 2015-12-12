@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : Zilog Z80 @ 15 MHz fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : TI-83 Plus fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : 96×64 pixels 
-16×8 characters fréquence : 0.05 

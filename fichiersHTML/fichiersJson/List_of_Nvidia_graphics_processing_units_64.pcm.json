@@ -1,0 +1,11 @@
+{
+"nodes":[
+{"name":"GRID K1", "group":0},
+{"name":"GRID K2", "group":1}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":2412.0},
+{"source":1, "target":0, "value":2412.0},
+{"source":1, "target":1, "value":0.0}
+ ]
+ }

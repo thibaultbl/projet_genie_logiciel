@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : Stacking fréquence : 0.027777777777777776 
-0.01 des valeurs sont égales à modalité : C++ fréquence : 0.027777777777777776 
-0.01 des valeurs sont égales à modalité : third-party fréquence : 0.027777777777777776 
-0.01 des valeurs sont égales à modalité : with bbkeys fréquence : 0.027777777777777776 
-0.01 des valeurs sont égales à modalité : MIT fréquence : 0.027777777777777776 

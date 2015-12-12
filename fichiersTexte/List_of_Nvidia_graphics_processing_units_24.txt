@@ -1,7 +1,0 @@
-0.01 des valeurs sont égales à modalité : AGP 4x fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 2:0:4:2 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 128
-64 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : SDR
-DDR fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : NV11M fréquence : 0.3333333333333333 

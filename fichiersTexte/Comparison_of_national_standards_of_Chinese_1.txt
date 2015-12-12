@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 连裤袜 fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : 連褲襪 fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : 袜裤 fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : 襪褲 fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : 裤袜 fréquence : 0.0625 

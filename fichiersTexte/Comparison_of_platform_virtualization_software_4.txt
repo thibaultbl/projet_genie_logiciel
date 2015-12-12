@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 2 TB fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 1 TB fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 160 logical cores fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 2 TB minus 512 bytes fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 64 TB fréquence : 0.1 

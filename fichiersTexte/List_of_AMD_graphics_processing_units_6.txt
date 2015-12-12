@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : RC350 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 16 - 128 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 4:1:2:2 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : DDR fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : FSB fréquence : 0.3333333333333333 

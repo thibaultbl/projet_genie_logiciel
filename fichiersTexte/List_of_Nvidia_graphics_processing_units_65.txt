@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : NV2A fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 4:2:8:4 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : Integrated fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : DDR fréquence : 0.5 

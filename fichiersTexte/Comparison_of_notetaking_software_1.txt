@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : Search fréquence : 0.029411764705882353 
-0.01 des valeurs sont égales à modalité : Printing fréquence : 0.029411764705882353 
-0.01 des valeurs sont égales à modalité : Ink-pen input fréquence : 0.029411764705882353 
-0.01 des valeurs sont égales à modalité : Tabbed sections fréquence : 0.029411764705882353 
-0.01 des valeurs sont égales à modalité : Sync fréquence : 0.029411764705882353 

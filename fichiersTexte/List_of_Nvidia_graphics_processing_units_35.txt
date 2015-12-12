@@ -1,8 +1,0 @@
-0.01 des valeurs sont égales à modalité : 192:32:16
-192:32:24 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : GF116 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 128
-192 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 40.0
-60.0 fréquence : 0.1 

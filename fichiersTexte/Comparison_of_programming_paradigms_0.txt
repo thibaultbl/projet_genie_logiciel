@@ -1,2 +1,0 @@
-0.01 des valeurs sont égales à modalité :  fréquence : 0.75 
-0.01 des valeurs sont égales à modalité : Treats datafields as objects manipulated through pre-defined methods only fréquence : 0.125 

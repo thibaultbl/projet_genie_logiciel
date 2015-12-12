@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 1066 MHz fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 5 Ports fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : x8+x8 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : HDA fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 12 Ports Rev 2.0 fréquence : 0.5 

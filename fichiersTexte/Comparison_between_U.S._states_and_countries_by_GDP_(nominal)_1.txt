@@ -1,1 +1,1 @@
-0.01 des valeurs sont égales à null 
+*treshold*% des valeurs sont égales à null 

@@ -1,0 +1,7 @@
+{
+"nodes":[
+{"name":"C++ is compiled directly to machine code which is then executed directly by the central processing unit.", "group":0}
+ ],
+"links":[{"source":0, "target":0, "value":0.0}
+ ]
+ }

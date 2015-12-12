@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 9.0c fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : RV515 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : 4:2:4:4 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : DDR2 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : PCI-E x16 fréquence : 0.045454545454545456 

@@ -1,4 +1,4 @@
-0.01 des valeurs sont égales à modalité : >4 fréquence : 0.034482758620689655 
-0.01 des valeurs sont égales à modalité :  fréquence : 0.20689655172413793 
-0.01 des valeurs sont égales à modalité : >5 fréquence : 0.034482758620689655 
-0.01 des valeurs sont égales à modalité : 8+ fréquence : 0.034482758620689655 
+*treshold*% des valeurs sont égales à modalité : >4 fréquence : 0.034482758620689655 
+*treshold*% des valeurs sont égales à modalité :  fréquence : 0.20689655172413793 
+*treshold*% des valeurs sont égales à modalité : >5 fréquence : 0.034482758620689655 
+*treshold*% des valeurs sont égales à modalité : 8+ fréquence : 0.034482758620689655 

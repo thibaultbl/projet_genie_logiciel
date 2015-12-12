@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : separate fréquence : 0.011111111111111112 
-0.01 des valeurs sont égales à modalité : BNF dialect fréquence : 0.011111111111111112 
-0.01 des valeurs sont égales à modalité : generated fréquence : 0.011111111111111112 
-0.01 des valeurs sont égales à modalité : C# fréquence : 0.011111111111111112 
-0.01 des valeurs sont égales à modalité : GNU LGPL fréquence : 0.011111111111111112 

@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : Python fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : A high-level portable library to easily write asynchronous FTP servers with Python. It is currently the most complete RFC-959 FTP server implementation available for Python. fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : Platform independent fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : MIT License fréquence : 1.0 

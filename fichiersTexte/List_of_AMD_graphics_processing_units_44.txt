@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : 2:4:4:4 fréquence : 0.034482758620689655 
-0.01 des valeurs sont égales à modalité : DDR fréquence : 0.034482758620689655 
-0.01 des valeurs sont égales à modalité : Radeon 9600 Pro fréquence : 0.034482758620689655 
-0.01 des valeurs sont égales à modalité : AGP fréquence : 0.034482758620689655 

@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"Radeon HD 7540D", "group":0},
+{"name":"Radeon HD 7560D", "group":1},
+{"name":"Radeon HD 7480D", "group":2},
+{"name":"Radeon HD 7660D", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":12.0},
+{"source":0, "target":2, "value":16.299999999999997},
+{"source":0, "target":3, "value":12.0},
+{"source":1, "target":0, "value":12.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":16.299999999999997},
+{"source":1, "target":3, "value":12.0},
+{"source":2, "target":0, "value":16.299999999999997},
+{"source":2, "target":1, "value":16.299999999999997},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":16.299999999999997},
+{"source":3, "target":0, "value":12.0},
+{"source":3, "target":1, "value":12.0},
+{"source":3, "target":2, "value":16.299999999999997},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

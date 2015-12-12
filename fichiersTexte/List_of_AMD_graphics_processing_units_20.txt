@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : Bus interface fréquence : 0.07142857142857142 
-0.01 des valeurs sont égales à modalité : Launch fréquence : 0.07142857142857142 
-0.01 des valeurs sont égales à modalité : Code name fréquence : 0.07142857142857142 
-0.01 des valeurs sont égales à modalité : Fillrate fréquence : 0.07142857142857142 
-0.01 des valeurs sont égales à modalité : Fillrate fréquence : 0.07142857142857142 

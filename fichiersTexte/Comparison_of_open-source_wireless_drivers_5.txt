@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : ADMtek ADM8211 fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : BSD fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : Integrated fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité :  fréquence : 0.14285714285714285 

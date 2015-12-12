@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : AC'97 2.1
-NVAPU SoundStorm fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 5 Ports fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 2 Ports UDMA 100 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 6 Ports Rev 1.1 fréquence : 0.5 

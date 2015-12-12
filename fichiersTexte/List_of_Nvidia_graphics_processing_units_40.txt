@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : NV11GL fréquence : 0.06666666666666667 
-0.01 des valeurs sont égales à modalité : SDR fréquence : 0.06666666666666667 
-0.01 des valeurs sont égales à modalité : 0:2:4:4 fréquence : 0.06666666666666667 
-0.01 des valeurs sont égales à modalité : AGP 4x fréquence : 0.06666666666666667 

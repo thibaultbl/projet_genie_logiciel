@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : PCIe 2.1 x16 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : April 2010 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : 80(16×5):8:4 fréquence : 0.25 

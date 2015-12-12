@@ -1,0 +1,17 @@
+{
+"nodes":[
+{"name":"Sqlite ver 3", "group":0},
+{"name":"MySQL", "group":1},
+{"name":"PostgreSQL", "group":2}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":0.0},
+{"source":0, "target":2, "value":0.0},
+{"source":1, "target":0, "value":0.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":0.0},
+{"source":2, "target":0, "value":0.0},
+{"source":2, "target":1, "value":0.0},
+{"source":2, "target":2, "value":0.0}
+ ]
+ }

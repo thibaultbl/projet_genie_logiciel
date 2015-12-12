@@ -1,2 +1,2 @@
-0.01 des valeurs sont égales à modalité : Content creators fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : Flattr button display along the content fréquence : 0.5 
+*treshold*% des valeurs sont égales à modalité : Content creators fréquence : 0.5 
+*treshold*% des valeurs sont égales à modalité : Flattr button display along the content fréquence : 0.5 

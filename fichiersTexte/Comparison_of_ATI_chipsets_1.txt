@@ -1,2 +1,2 @@
-0.01 des valeurs sont égales à modalité :  fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : HD fréquence : 0.125 
+*treshold*% des valeurs sont égales à modalité :  fréquence : 0.25 
+*treshold*% des valeurs sont égales à modalité : HD fréquence : 0.125 

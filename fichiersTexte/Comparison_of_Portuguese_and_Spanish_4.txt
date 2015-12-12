@@ -1,2 +1,2 @@
-0.01 des valeurs sont égales à modalité : 'to keep it' fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : mantê-lo fréquence : 0.3333333333333333 
+*treshold*% des valeurs sont égales à modalité : 'to keep it' fréquence : 0.3333333333333333 
+*treshold*% des valeurs sont égales à modalité : mantê-lo fréquence : 0.3333333333333333 

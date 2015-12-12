@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : DDR3-1866 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : 4.8 - 7.38 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : 65 - 100 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : 400:20:8 fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : A8-3800 A8-3820 A8-3850 A8-3870K fréquence : 0.25 

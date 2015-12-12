@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : HT3.0 2.6 GHz fréquence : 0.14285714285714285 
-0.01 des valeurs sont égales à modalité : 5 Ports fréquence : 0.14285714285714285 
-0.01 des valeurs sont égales à modalité : 1 Ports UDMA 133 fréquence : 0.14285714285714285 
-0.01 des valeurs sont égales à modalité : 12 Ports Rev 2.0 fréquence : 0.14285714285714285 
-0.01 des valeurs sont égales à modalité : MCP78 fréquence : 0.14285714285714285 

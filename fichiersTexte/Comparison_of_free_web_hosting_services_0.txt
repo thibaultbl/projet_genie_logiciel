@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 5 MB fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : Paid only fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : 1 GB fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : Unlimited fréquence : 0.0625 
-0.01 des valeurs sont égales à modalité : Yola fréquence : 0.0625 

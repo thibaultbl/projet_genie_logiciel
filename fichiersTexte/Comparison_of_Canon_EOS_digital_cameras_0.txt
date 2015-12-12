@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité :  fréquence : 0.044444444444444446 
-0.01 des valeurs sont égales à modalité : APS-C CMOS fréquence : 0.022222222222222223 
-0.01 des valeurs sont égales à modalité : 2012Q2 fréquence : 0.022222222222222223 
-0.01 des valeurs sont égales à modalité : SDXC fréquence : 0.022222222222222223 

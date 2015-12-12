@@ -1,5 +1,5 @@
-0.01 des valeurs sont égales à modalité : 10m-100m fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : cyclic fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : high fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : low-medium fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : low fréquence : 1.0 
+*treshold*% des valeurs sont égales à modalité : 10m-100m fréquence : 1.0 
+*treshold*% des valeurs sont égales à modalité : cyclic fréquence : 1.0 
+*treshold*% des valeurs sont égales à modalité : high fréquence : 1.0 
+*treshold*% des valeurs sont égales à modalité : low-medium fréquence : 1.0 
+*treshold*% des valeurs sont égales à modalité : low fréquence : 1.0 

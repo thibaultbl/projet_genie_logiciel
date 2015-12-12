@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité :  fréquence : 0.18181818181818182 
-0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : GK110 fréquence : 0.045454545454545456 
-0.01 des valeurs sont égales à modalité : K20X fréquence : 0.045454545454545456 

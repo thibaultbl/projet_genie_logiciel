@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 2 Ports UDMA 133 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : AGP 8× fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 8 Ports Rev 2.0 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 6 Ports fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : HT 1 GHz fréquence : 0.3333333333333333 

@@ -1,7 +1,0 @@
-0.01 des valeurs sont égales à modalité : 2.0
-20 lanes fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : MCP7A fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : HDA fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : 1333 MHz fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : DDR3-1333
-dual channel fréquence : 0.16666666666666666 

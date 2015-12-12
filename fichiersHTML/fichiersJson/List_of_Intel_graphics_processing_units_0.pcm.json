@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"Intel740", "group":0},
+{"name":"752", "group":1},
+{"name":"3D graphics with Direct AGP", "group":2},
+{"name":"3D graphics with Direct AGP", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":43.0},
+{"source":0, "target":2, "value":23.0},
+{"source":0, "target":3, "value":24.0},
+{"source":1, "target":0, "value":43.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":29.0},
+{"source":1, "target":3, "value":30.0},
+{"source":2, "target":0, "value":23.0},
+{"source":2, "target":1, "value":29.0},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":10.0},
+{"source":3, "target":0, "value":24.0},
+{"source":3, "target":1, "value":30.0},
+{"source":3, "target":2, "value":10.0},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

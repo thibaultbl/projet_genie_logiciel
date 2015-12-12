@@ -1,5 +1,5 @@
-0.01 des valeurs sont égales à modalité : 65 nm fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : 1.06 GHz - 2.33 GHz fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : Socket M fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : 2 MiB fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : Yonah fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : 65 nm fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : 1.06 GHz - 2.33 GHz fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : Socket M fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : 2 MiB fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : Yonah fréquence : 0.047619047619047616 

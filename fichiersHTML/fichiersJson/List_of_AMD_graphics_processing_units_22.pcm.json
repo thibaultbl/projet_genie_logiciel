@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"Radeon HD 6530D", "group":0},
+{"name":"Radeon HD 6370D", "group":1},
+{"name":"Radeon HD 6410D", "group":2},
+{"name":"Radeon HD 6550D", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":158.60999999999999},
+{"source":0, "target":2, "value":259.41999999999996},
+{"source":0, "target":3, "value":366.18},
+{"source":1, "target":0, "value":158.60999999999999},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":220.19},
+{"source":1, "target":3, "value":517.79},
+{"source":2, "target":0, "value":259.41999999999996},
+{"source":2, "target":1, "value":220.19},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":304.6},
+{"source":3, "target":0, "value":366.18},
+{"source":3, "target":1, "value":517.79},
+{"source":3, "target":2, "value":304.6},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

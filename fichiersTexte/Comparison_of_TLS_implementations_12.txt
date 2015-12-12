@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : GOST 28147-89 IMIT fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : AEAD fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : HMAC-MD5 fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : GOST R 34.11-94 fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : HMAC-SHA1 fréquence : 0.058823529411764705 

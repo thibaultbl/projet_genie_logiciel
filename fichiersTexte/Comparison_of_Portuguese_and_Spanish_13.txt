@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : (elided) fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 'sky' 
- 'to fly' fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : -l- fréquence : 0.1 

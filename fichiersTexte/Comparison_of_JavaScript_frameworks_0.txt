@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 4.2
-13 Mar 2013 fréquence : 0.037037037037037035 
-0.01 des valeurs sont égales à modalité : 84–502 kB fréquence : 0.037037037037037035 
-0.01 des valeurs sont égales à modalité : JavaScript fréquence : 0.037037037037037035 
-0.01 des valeurs sont égales à modalité : GPL & Commercial fréquence : 0.037037037037037035 

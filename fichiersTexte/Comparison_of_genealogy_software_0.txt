@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : 2014-02-17 fréquence : 0.02702702702702703 
-0.01 des valeurs sont égales à modalité : Release 6 fréquence : 0.02702702702702703 
-0.01 des valeurs sont égales à modalité : Proprietary fréquence : 0.02702702702702703 
-0.01 des valeurs sont égales à modalité : Metro UI fréquence : 0.02702702702702703 

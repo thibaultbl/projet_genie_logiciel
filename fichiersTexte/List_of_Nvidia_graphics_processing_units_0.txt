@@ -1,6 +1,0 @@
-0.01 des valeurs sont égales à modalité : SDR fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : NV5 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : AGP 4x fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 16
-32 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : 2:2:2 fréquence : 0.1 

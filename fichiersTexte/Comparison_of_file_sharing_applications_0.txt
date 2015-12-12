@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : Symbian S60 fréquence : 0.013513513513513514 
-0.01 des valeurs sont égales à modalité : BitTorrent fréquence : 0.013513513513513514 
-0.01 des valeurs sont égales à modalité : GPL fréquence : 0.013513513513513514 
-0.01 des valeurs sont égales à modalité : C++ fréquence : 0.013513513513513514 
-0.01 des valeurs sont égales à modalité :  fréquence : 0.40540540540540543 

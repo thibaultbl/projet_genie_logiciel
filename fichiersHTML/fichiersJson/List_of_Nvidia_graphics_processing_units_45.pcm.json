@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"Quadro FX 560", "group":0},
+{"name":"Quadro FX 4600 SDI", "group":1},
+{"name":"Quadro FX 5600", "group":2},
+{"name":"Quadro FX 4600", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":2306.2},
+{"source":0, "target":2, "value":3567.6},
+{"source":0, "target":3, "value":2286.2},
+{"source":1, "target":0, "value":2306.2},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":1269.4},
+{"source":1, "target":3, "value":28.0},
+{"source":2, "target":0, "value":3567.6},
+{"source":2, "target":1, "value":1269.4},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":1289.4},
+{"source":3, "target":0, "value":2286.2},
+{"source":3, "target":1, "value":28.0},
+{"source":3, "target":2, "value":1289.4},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

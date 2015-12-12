@@ -1,7 +1,0 @@
-0.01 des valeurs sont égales à modalité : 1152:96:24
-1152:96:32 fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : GK104-200-KD-A2 fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : 1536
-2048 fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité :  fréquence : 0.07142857142857142 

@@ -1,0 +1,29 @@
+{
+"nodes":[
+{"name":"a
+(fem.sing.)", "group":0},
+{"name":"o
+(masc.sing.)", "group":1},
+{"name":"os
+(masc.pl.)", "group":2},
+{"name":"as
+(fem.pl.)", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":4.0},
+{"source":0, "target":2, "value":4.0},
+{"source":0, "target":3, "value":4.0},
+{"source":1, "target":0, "value":4.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":4.0},
+{"source":1, "target":3, "value":4.0},
+{"source":2, "target":0, "value":4.0},
+{"source":2, "target":1, "value":4.0},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":4.0},
+{"source":3, "target":0, "value":4.0},
+{"source":3, "target":1, "value":4.0},
+{"source":3, "target":2, "value":4.0},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

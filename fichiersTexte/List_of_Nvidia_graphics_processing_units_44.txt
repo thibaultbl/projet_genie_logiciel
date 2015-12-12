@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : G72GL fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : DDR2 fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : 9.0c fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : 3:4:4:2 fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : PCIe x16 fréquence : 0.1111111111111111 

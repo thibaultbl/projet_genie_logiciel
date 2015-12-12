@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"rTorrent (libTorrent Rakshasa)", "group":0},
+{"name":"BitTorrent library", "group":1},
+{"name":"MonoTorrent", "group":2},
+{"name":"libtorrent (Rasterbar)", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":3.0},
+{"source":0, "target":2, "value":3.0},
+{"source":0, "target":3, "value":3.0},
+{"source":1, "target":0, "value":3.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":3.0},
+{"source":1, "target":3, "value":3.0},
+{"source":2, "target":0, "value":3.0},
+{"source":2, "target":1, "value":3.0},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":3.0},
+{"source":3, "target":0, "value":3.0},
+{"source":3, "target":1, "value":3.0},
+{"source":3, "target":2, "value":3.0},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

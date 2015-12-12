@@ -1,2 +1,2 @@
-0.01 des valeurs sont égales à modalité : Vorbis only fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Basic fréquence : 0.05 
+*treshold*% des valeurs sont égales à modalité : Vorbis only fréquence : 0.05 
+*treshold*% des valeurs sont égales à modalité : Basic fréquence : 0.05 

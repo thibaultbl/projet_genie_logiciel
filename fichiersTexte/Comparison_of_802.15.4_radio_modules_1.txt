@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité :  fréquence : 0.043478260869565216 
-0.01 des valeurs sont égales à modalité : Ember ZNet Stack fréquence : 0.014492753623188406 
-0.01 des valeurs sont égales à modalité : 16-bit 12 MHz RISC fréquence : 0.014492753623188406 
-0.01 des valeurs sont égales à modalité : Ember (now Silicon Labs) EM250 factsheet datasheet fréquence : 0.014492753623188406 
-0.01 des valeurs sont égales à modalité : 5 kB fréquence : 0.014492753623188406 

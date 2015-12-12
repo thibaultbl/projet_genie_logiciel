@@ -1,3 +1,0 @@
-0.01 des valeurs sont égales à modalité : GPL fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : cross-compile from Windows to Java ME fréquence : 0.1111111111111111 
-0.01 des valeurs sont égales à modalité : Code Research Laboratories fréquence : 0.1111111111111111 

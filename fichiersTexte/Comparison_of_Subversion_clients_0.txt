@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : English fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : 1.1.23 fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : web-based fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : Python fréquence : 0.058823529411764705 
-0.01 des valeurs sont égales à modalité : "two-clause Berkeley-style" fréquence : 0.058823529411764705 

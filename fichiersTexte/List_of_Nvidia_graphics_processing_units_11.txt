@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : Core config fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Clock rate fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Clock rate fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Clock rate fréquence : 0.05 
-0.01 des valeurs sont égales à modalité : Launch fréquence : 0.05 

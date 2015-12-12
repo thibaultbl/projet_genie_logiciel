@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : GDDR3 fréquence : 0.125 
-0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.125 
-0.01 des valeurs sont égales à modalité : G92 fréquence : 0.125 
-0.01 des valeurs sont égales à modalité : 112:56:16 fréquence : 0.125 

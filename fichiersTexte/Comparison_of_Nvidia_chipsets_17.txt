@@ -1,6 +1,0 @@
-0.01 des valeurs sont égales à modalité : 6 Ports fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : AC'97 2.1 fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : MediaShield fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : HT 1.0
-1.6 GHz fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : 2 Ports UDMA 133 fréquence : 0.16666666666666666 

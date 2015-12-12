@@ -1,2 +1,0 @@
-0.01 des valeurs sont égales à modalité : Python fréquence : 0.14285714285714285 
-0.01 des valeurs sont égales à modalité : Open source fréquence : 0.14285714285714285 

@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : GM200 fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : PCIe 3.0 x16 fréquence : 1.0 
-0.01 des valeurs sont égales à modalité : 10.5" Card fréquence : 1.0 

@@ -1,6 +1,0 @@
-0.01 des valeurs sont égales à modalité : HT 1 GHz fréquence : 0.07692307692307693 
-0.01 des valeurs sont égales à modalité : 1 Ports UDMA 133 fréquence : 0.07692307692307693 
-0.01 des valeurs sont égales à modalité : 5 Ports fréquence : 0.07692307692307693 
-0.01 des valeurs sont égales à modalité : MCP65 fréquence : 0.07692307692307693 
-0.01 des valeurs sont égales à modalité : 1.1
-20 lanes fréquence : 0.07692307692307693 

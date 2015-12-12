@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : PCIe 2.0 x16 fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : GDDR5 fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : GM107 fréquence : 0.16666666666666666 
-0.01 des valeurs sont égales à modalité : 7.97" Card fréquence : 0.16666666666666666 

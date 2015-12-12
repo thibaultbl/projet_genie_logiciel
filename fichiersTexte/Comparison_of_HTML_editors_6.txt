@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : beta fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : GRIF fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : WYSIWYG fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : HTML 2 fréquence : 0.1 
-0.01 des valeurs sont égales à modalité : Unix fréquence : 0.1 

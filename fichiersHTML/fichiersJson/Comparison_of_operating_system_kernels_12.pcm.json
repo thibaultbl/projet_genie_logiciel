@@ -1,0 +1,35 @@
+{
+"nodes":[
+{"name":"Kernel name", "group":0},
+{"name":"Linux", "group":1},
+{"name":"FreeBSD kernel", "group":2},
+{"name":"Solaris kernelYes", "group":3},
+{"name":"Windows NT kernel?", "group":4}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":23.0},
+{"source":0, "target":2, "value":23.0},
+{"source":0, "target":3, "value":23.0},
+{"source":0, "target":4, "value":23.0},
+{"source":1, "target":0, "value":23.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":23.0},
+{"source":1, "target":3, "value":23.0},
+{"source":1, "target":4, "value":23.0},
+{"source":2, "target":0, "value":23.0},
+{"source":2, "target":1, "value":23.0},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":18.0},
+{"source":2, "target":4, "value":18.0},
+{"source":3, "target":0, "value":23.0},
+{"source":3, "target":1, "value":23.0},
+{"source":3, "target":2, "value":18.0},
+{"source":3, "target":3, "value":0.0},
+{"source":3, "target":4, "value":16.0},
+{"source":4, "target":0, "value":23.0},
+{"source":4, "target":1, "value":23.0},
+{"source":4, "target":2, "value":18.0},
+{"source":4, "target":3, "value":16.0},
+{"source":4, "target":4, "value":0.0}
+ ]
+ }

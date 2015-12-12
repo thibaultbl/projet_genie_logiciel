@@ -1,0 +1,25 @@
+{
+"nodes":[
+{"name":"FirePro V3900", "group":0},
+{"name":"FirePro V5900", "group":1},
+{"name":"FirePro V7900", "group":2},
+{"name":"FirePro V4900", "group":3}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":1676.8},
+{"source":0, "target":2, "value":3012.6},
+{"source":0, "target":3, "value":442.0},
+{"source":1, "target":0, "value":1676.8},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":2271.8},
+{"source":1, "target":3, "value":2030.8},
+{"source":2, "target":0, "value":3012.6},
+{"source":2, "target":1, "value":2271.8},
+{"source":2, "target":2, "value":0.0},
+{"source":2, "target":3, "value":2728.6000000000004},
+{"source":3, "target":0, "value":442.0},
+{"source":3, "target":1, "value":2030.8},
+{"source":3, "target":2, "value":2728.6000000000004},
+{"source":3, "target":3, "value":0.0}
+ ]
+ }

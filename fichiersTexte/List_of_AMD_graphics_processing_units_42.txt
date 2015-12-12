@@ -1,6 +1,0 @@
-0.01 des valeurs sont égales à modalité : Oland fréquence : 0.09090909090909091 
-0.01 des valeurs sont égales à modalité : Jet Pro fréquence : 0.09090909090909091 
-0.01 des valeurs sont égales à modalité : PCIe 3.0 x8 fréquence : 0.09090909090909091 
-0.01 des valeurs sont égales à modalité : 320:20:4 fréquence : 0.09090909090909091 
-0.01 des valeurs sont égales à modalité : 2048
-4096 fréquence : 0.09090909090909091 

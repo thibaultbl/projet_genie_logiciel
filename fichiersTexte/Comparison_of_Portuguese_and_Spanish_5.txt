@@ -1,3 +1,0 @@
-0.01 des valeurs sont égales à modalité : Tira-me uma foto. 
- Me tira uma foto. fréquence : 0.2 
-0.01 des valeurs sont égales à modalité : 'Take a picture for me.' fréquence : 0.2 

@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : Paul Mutton fréquence : 0.022727272727272728 
-0.01 des valeurs sont égales à modalité : Java fréquence : 0.022727272727272728 
-0.01 des valeurs sont égales à modalité : Framework for creating bots fréquence : 0.022727272727272728 
-0.01 des valeurs sont égales à modalité : Cross-platform fréquence : 0.022727272727272728 
-0.01 des valeurs sont égales à modalité : 2001-08-01 fréquence : 0.022727272727272728 

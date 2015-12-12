@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : Andrew S. Tanenbaum fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : microkernel fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : Unix permissions fréquence : 0.03571428571428571 
-0.01 des valeurs sont égales à modalité : MINIX 3 fréquence : 0.03571428571428571 

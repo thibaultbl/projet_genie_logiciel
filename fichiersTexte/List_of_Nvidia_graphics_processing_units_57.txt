@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : PCIe 1.0 x16 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : G94M fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 48:24:16 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : GDDR3 fréquence : 0.3333333333333333 

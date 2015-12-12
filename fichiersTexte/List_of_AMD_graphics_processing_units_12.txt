@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : HT 2.0 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 6.4 - 12.8 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : DDR2 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : 400 - 800 fréquence : 0.3333333333333333 
-0.01 des valeurs sont égales à modalité : Feb. 28 2007 fréquence : 0.3333333333333333 

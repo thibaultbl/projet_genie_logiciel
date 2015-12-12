@@ -1,3 +1,0 @@
-0.01 des valeurs sont égales à modalité : TrustedBSD MAC fréquence : 0.2 
-0.01 des valeurs sont égales à modalité : OpenBSM fréquence : 0.2 
-0.01 des valeurs sont égales à modalité : Apple XNU Sandbox fréquence : 0.2 

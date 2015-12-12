@@ -1,5 +1,0 @@
-0.01 des valeurs sont égales à modalité : 3:8:8:8 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : DDR fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : NV41 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : PCIe x16 fréquence : 0.5 
-0.01 des valeurs sont égales à modalité : 9.0c fréquence : 0.5 

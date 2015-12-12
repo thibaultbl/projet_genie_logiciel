@@ -1,5 +1,5 @@
-0.01 des valeurs sont égales à modalité :   fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : via lua.c32 module fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : TFTP fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : via cmd.c32 module fréquence : 0.047619047619047616 
-0.01 des valeurs sont égales à modalité : None fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité :   fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : via lua.c32 module fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : TFTP fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : via cmd.c32 module fréquence : 0.047619047619047616 
+*treshold*% des valeurs sont égales à modalité : None fréquence : 0.047619047619047616 

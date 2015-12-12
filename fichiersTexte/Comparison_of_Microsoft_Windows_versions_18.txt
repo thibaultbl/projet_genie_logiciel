@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : PWS fréquence : 0.05263157894736842 
-0.01 des valeurs sont égales à modalité : Classic fréquence : 0.05263157894736842 
-0.01 des valeurs sont égales à modalité : Windows shell fréquence : 0.05263157894736842 
-0.01 des valeurs sont égales à modalité : COMMAND.COM fréquence : 0.05263157894736842 

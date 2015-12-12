@@ -22,58 +22,7 @@ import org.opencompare.api.java.value.RealValue;
 import org.opencompare.api.java.value.StringValue;
 
 public class Statistiques4Test {
-	/*@Test
-	public void faitsInteressants() throws IOException {
-		File directory = new File("pcms2");
-		File[] files = directory.listFiles();
-		//On crée une liste contenant l'ensemble des features
-		List<ArrayList<String>> liste=new ArrayList<ArrayList<String>>();
-		ArrayList<String> listeTemp=null;
-
-
-		for(File file : files){
-			PCMLoader loader = new KMFJSONLoader();
-
-			List<PCMContainer> pcmContainers = loader.load(file);
-
-			for (PCMContainer pcmContainer : pcmContainers) {
-				PCM pcm = pcmContainer.getPcm();
-				liste=new ArrayList<ArrayList<String>>();
-				for (Feature feature : pcm.getConcreteFeatures()) {
-					listeTemp=new ArrayList<String>();
-					for (Product product : pcm.getProducts()) {
-
-
-						// Find the cell corresponding to the current feature and product
-						Cell cell = product.findCell(feature);
-						// Get information contained in the cell
-						String content = cell.getContent();
-
-						listeTemp.add(content);
-
-
-						// Print the content of the cell
-						//System.out.println("(" + product.getName() + ", " + feature.getName() + ") = " + content);
-
-
-					}
-					liste.add(listeTemp);
-				}
-			}
-			System.out.println("change product :"+file.getName());
-			for(int i=0;i<liste.size();i++ ){
-				System.out.println("change feature");
-				for(int j=0;j<liste.get(i).size();j++){
-					System.out.println(liste.get(i).get(j));
-				}
-			}
-		}
-
-	}*/
-
-
-
-
+	
 	@Test
 	public void faitsInteressantsWithTreatment() throws IOException {
 		final double THRESHOLD = 0.02;
@@ -114,8 +63,6 @@ public class Statistiques4Test {
 
 						// Print the content of the cell
 						//System.out.println("(" + product.getName() + ", " + feature.getName() + ") = " + content);
-
-
 					}
 					listeInterpretation.add(cell.getInterpretation());
 					liste.add(listeTemp);
@@ -236,35 +183,6 @@ public class Statistiques4Test {
 		}
 	}
 
-	/**
-	 * TO DELETE
-	 */
-	/**
-	 * TO DELETE
-	 */
-	/**
-	 * TO DELETE
-	 */
-
-	/*	@Test
-	public void testQuali(){
-		ArrayList<String> liste=new ArrayList<String>();
-		liste.add("salut");
-		liste.add("salut");
-		liste.add("salut");
-		liste.add("salut");
-		liste.add("salut");
-		liste.add("test");
-		liste.add("test");
-		liste.add("test");
-		liste.add("test");
-		try {
-			System.out.println(this.faitsInteressantsQuali(liste, 0.3));
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}		
-	}*/
 	
 	
 	

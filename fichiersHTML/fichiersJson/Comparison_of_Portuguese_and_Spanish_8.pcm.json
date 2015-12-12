@@ -1,0 +1,26 @@
+{
+"nodes":[
+{"name":"esse (masc.sing.)
+essa (fem.sing.)
+esses (masc.pl.)
+essas (fem.pl.)", "group":0},
+{"name":"aquele (masc.sing.)
+aquela (fem.sing.)
+aqueles (masc.pl.)
+aquelas (fem.pl.)", "group":1},
+{"name":"este (masc.sing.)
+esta (fem.sing.)
+estes (masc.pl.)
+estas (fem.pl.)", "group":2}
+ ],
+"links":[{"source":0, "target":0, "value":0.0},
+{"source":0, "target":1, "value":2.0},
+{"source":0, "target":2, "value":2.0},
+{"source":1, "target":0, "value":2.0},
+{"source":1, "target":1, "value":0.0},
+{"source":1, "target":2, "value":2.0},
+{"source":2, "target":0, "value":2.0},
+{"source":2, "target":1, "value":2.0},
+{"source":2, "target":2, "value":0.0}
+ ]
+ }

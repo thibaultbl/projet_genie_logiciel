@@ -1,4 +1,0 @@
-0.01 des valeurs sont égales à modalité : OS X fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : Windows fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : Programming language fréquence : 0.25 
-0.01 des valeurs sont égales à modalité : API fréquence : 0.25 
