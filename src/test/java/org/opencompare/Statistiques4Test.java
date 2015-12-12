@@ -26,6 +26,7 @@ public class Statistiques4Test {
 	@Test
 	public void faitsInteressantsWithTreatment() throws IOException {
 		final double THRESHOLD = 0.02;
+		final double QUANTILE = 0.9;
 		final int NB_FAITS_INTERESSANTS =5;
 		int compteur_nb_faits_interessants=0;
 		File directory = new File("pcms");
@@ -84,8 +85,8 @@ public class Statistiques4Test {
 
 
 					if(((listeInterpretation.get(i) instanceof RealValue) || (listeInterpretation.get(i) instanceof IntegerValue) )&&(listeInterpretation.get(i) instanceof DateValue)){
-						double faitInteressantQuanti=this.faitsInteressantsQuanti(liste.get(i));
-						faitsInteressants.add("*treshold*% des valeurs sont inférieures à "+faitInteressantQuanti);
+						double faitInteressantQuanti=this.faitsInteressantsQuanti(liste.get(i), QUANTILE);
+						faitsInteressants.add(QUANTILE+" des valeurs sont inférieures à "+faitInteressantQuanti);
 						if(faitInteressantQuanti>0) {
 							System.out.println("faitInteressantQuanti"+faitInteressantQuanti);
 							compteur_nb_faits_interessants++;
@@ -94,7 +95,7 @@ public class Statistiques4Test {
 					}
 					if((listeInterpretation.get(i) instanceof StringValue)){
 						String faitInteressantQuali=this.faitsInteressantsQuali(liste.get(i), THRESHOLD);
-						faitsInteressants.add("*treshold*% des valeurs sont égales à "+faitInteressantQuali);
+						faitsInteressants.add("Au moins "+THRESHOLD+" des valeurs sont égales à "+faitInteressantQuali);
 						if((faitInteressantQuali != null)&&(faitInteressantQuali != "")) {
 							System.out.println("faitInteressantQuali : "+faitInteressantQuali);
 							compteur_nb_faits_interessants++;
@@ -107,7 +108,7 @@ public class Statistiques4Test {
 	}
 
 
-	public double faitsInteressantsQuanti(ArrayList<String> liste) throws IOException {
+	public double faitsInteressantsQuanti(ArrayList<String> liste, double quantile) throws IOException {
 		double[] tabQuanti = new double[liste.size()];
 		for(int i=0;i<liste.size();i++){
 			NumberFormat nf = NumberFormat.getInstance();
@@ -125,7 +126,7 @@ public class Statistiques4Test {
 		Arrays.sort(tabQuanti);
 
 		//index du thresold à 90%
-		int index=(int)Math.round((tabQuanti.length)*0.9);
+		int index=(int)Math.round((tabQuanti.length)*quantile);
 
 		// on retourne le quantile à 90%
 		return tabQuanti[index];
